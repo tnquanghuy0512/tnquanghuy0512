@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-0xhuy0512
-twitter: @0xhuy0512
+
+Discord: 0xhuy0512
+Twitter: 0xhuy0512
 
 - Have computer science bachelor degree in University of Engineering and Technology (Viet Nam)
 - Have 1 year of experience in smart contract developing
