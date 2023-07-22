@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+0xhuy0512
+twitter: @0xhuy0512
+
+- Have computer science bachelor degree in University of Engineering and Technology (Viet Nam)
+- Have 1 year of experience in smart contract developing
+- Have 3 months of experience of participating competitive audit contest
