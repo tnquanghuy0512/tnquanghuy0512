@@ -10,50 +10,50 @@
 
 # My wall of achievements
 
-| Overall issues found | High risk | Unique highs | Medium risk | Unique mediums | Audited contests |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| 1 issues found | 0 highs | - | 1 mediums | - | 4 contests |
+| Overall issues found | High risk | Unique highs | Medium risk | Unique mediums | Audited contests |Earned payouts |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 11 issues found | 4 highs | - | 7 mediums | - | 8 contests |1251 USDC|
 
 # My monthly tracking 
 ### 1 June, 2023 - 1 July, 2023 
 | Total issues | High risk | Medium risk | Audited contests | Security reports | Earned payouts |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| 1 issues found |   | 1 mediums | 1 contests | - | - |
+| 1 issue found | -  | 1 medium | 1 contest | - | 1005 USDC |
 
 ### 1 July, 2023 - 1 August, 2023 
 | Total issues | High risk | Medium risk | Audited contests | Security reports | Earned payouts |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|   |   |   | 3 contest | - | - | - |
+| 10 issues found  | 4 highs  | 6 mediums  | 7 contests | - | 246 USDC |
 
 # Sherlock <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=24 height=23.5>
 
 ### Audit Competitions
-| Contest | High risk | Medium risk | Security report | Leaderboard | Payout | Language |Role| Status| 
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
-| [Iron Bank](https://audits.sherlock.xyz/contests/84)| -  | 1 medium | - | - | 1005 USDC | Solidity |Solo|Offical
-| [Dinari](https://audits.sherlock.xyz/contests/98) | -|   1 medium| - | - | - | Solidity |Solo|Preliminary
-| [Bond Options](https://audits.sherlock.xyz/contests/99) | 1 high |- |  -| - | - | Solidity |Solo|Preliminary
-|[Token Soft](https://audits.sherlock.xyz/contests/100)|-|-|-|-|-|Solidity|Judging|Team
+| Contest | High risk | Medium risk | Security report | Leaderboard | Payout | Language |Role| Status| Date
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| [Iron Bank](https://audits.sherlock.xyz/contests/84)        | -       | 1 medium | - | 5th    | 1005 USDC  | Solidity | Solo | Offical     |06-2023
+| [Beam](https://audits.sherlock.xyz/contests/102)            | -       | -        | - | -      | 146 USDC   | Solidity | Solo | Offical     |07-2023
+| [Bond Options](https://audits.sherlock.xyz/contests/99)     | 1 high  |-         | - | 18th   | 100 USDC   | Solidity | Solo | Offical     | 07-2023
+|[Token Soft](https://audits.sherlock.xyz/contests/100)       |-        |1 medium  | - | -      | -          | Solidity | Team | Preliminary | 07-2023
 
 
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
 
 ### Audit Competitions
-| Contest | High risk | Medium risk | Security report | Leaderboard | Payout | Language |Role|Status|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| [PoolTogether V5](https://code4rena.com/contests/2023-07-pooltogether#top) | - | - | - | - | - | Solidity |Team|Judging|
-| [Lens Protocol V2](https://code4rena.com/contests/2023-07-lens-protocol-v2) | - | - | - | - | - | Solidity |Solo|Judging|
+| Contest | High risk | Medium risk | Security report | Leaderboard | Payout | Language |Role|Status|Date
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| [PoolTogether V5](https://code4rena.com/contests/2023-07-pooltogether#top)        | -      | -        | - | - | - | Solidity |Team|Judging|07-2023
+| [Lens Protocol V2](https://code4rena.com/contests/2023-07-lens-protocol-v2)       | -      | 2 medium | - | - | - | Solidity |Solo|Judging|07-2023
+| [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top)     | 2 high | 4 medium | - | - | - | Solidity |Solo|Judging|08-2023
 
 
 # CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=50 height=27>
 
 ### Audit Competitions
-| Contest | High risk | Medium risk | Security report | Leaderboard | Payout | Language |Role|Status
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| [Stablecoin](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0) | - | - | - | - | - |Solidity| Solo |Judging|
-| [Escrow](https://www.codehawks.com/contests/cljyfxlc40003jq082s0wemya) |  |  | - | - | - |Solidity| Solo |Judging|
-| [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | - | - | - | - | - |Solidity| Solo |Judging|
-
+| Contest | High risk | Medium risk | Security report | Leaderboard | Payout | Language |Role|Status|Date
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| [Stablecoin](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0)     | 1 high | 2 medium | - | - | - |Solidity| Solo |Judging|07-2023
+| [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)         | 2 high | 1 medium | - | - | - |Solidity| Solo |Judging|07-2023
+<!--
 # Immunefi <img src="https://immunefi.com/images/logo-white.svg" width=100 height=25>
 
 ### Bug bounties
