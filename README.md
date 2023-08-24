@@ -36,7 +36,7 @@
 | Contest | High risk | Medium risk | Security report | Leaderboard | Payout | nSLOC | Language |Role| Status| Date
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | [Iron Bank](https://audits.sherlock.xyz/contests/84)        | -       | 1 medium | - | 5th    | 1005 USDC  | 2250 | Solidity | Solo | Offical     |06-2023
-| [Beam](https://audits.sherlock.xyz/contests/102)            | -       | -        | - | -      | 146 USDC   | 213 | Solidity | Solo | Offical     |07-2023
+| [Beam](https://audits.sherlock.xyz/contests/102)            | -       | -        | - | 11th   | 146 USDC   | 213  | Solidity | Solo | Offical     |07-2023
 | [Bond Options](https://audits.sherlock.xyz/contests/99)     | 1 high  |-         | - | 18th   | 100 USDC   | 874  | Solidity | Solo | Offical     | 07-2023
 |[Token Soft](https://audits.sherlock.xyz/contests/100)       |-        |1 medium  | - | -      | -          | 650  | Solidity | Team | Preliminary | 07-2023
 
@@ -46,9 +46,9 @@
 ### Audit Competitions
 | Contest | High risk | Medium risk | Security report | Leaderboard | Payout | nSLOC | Language |Role|Status|Date
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| [PoolTogether V5](https://code4rena.com/contests/2023-07-pooltogether#top)        | 2 high | -        | - | - | - | 3335 | Solidity |Team|Judging|07-2023
-| [Lens Protocol V2](https://code4rena.com/contests/2023-07-lens-protocol-v2)       | -      | 2 medium | - | - | - | 4108 | Solidity |Solo|Judging|07-2023
-| [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top)     | 2 high | 4 medium | - | - | - | 1503 | Solidity |Solo|Judging|08-2023
+| [PoolTogether V5](https://code4rena.com/contests/2023-07-pooltogether#top)        | 2 high | -        | - | 51th | 181 USDC | 3335 | Solidity |Team|Judging|07-2023
+| [Lens Protocol V2](https://code4rena.com/contests/2023-07-lens-protocol-v2)       | -      | 2 medium | - | -    | -        | 4108 | Solidity |Solo|Judging|07-2023
+| [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top)     | 2 high | 4 medium | - | -    | -        | 1503 | Solidity |Solo|Judging|08-2023
 
 
 # CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=50 height=27>
