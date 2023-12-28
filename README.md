@@ -6,9 +6,9 @@ Updated 28/12/2023
 - Discord: 0xhuy0512
 - Twitter: 0xhuy0512
 
-- Have computer science bachelor degree in University of Engineering and Technology (Viet Nam)
-- Have 1 year of experience in smart contract developing
-- Have 3 months of experience of participating competitive audit contest
+- Viet Nam  🇻🇳 (GMT+7)
+- June 2022 - June 2023: Smart contract developer
+- June 2023 - Now: Independent smart contract auditor/security researcher
 
 # My wall of achievements
 | Overall issues found | High risk |  Medium risk | Audited contests  |
@@ -37,7 +37,6 @@ Updated 28/12/2023
 | Contest | High risk | Medium risk | Security report   | nSLOC | Date
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | [Iron Bank](https://audits.sherlock.xyz/contests/84)        | -       | 1 medium | -     | 2250      |06-2023
-| [Beam](https://audits.sherlock.xyz/contests/102)            | -       | -        | -   | 213    |07-2023
 | [Bond Options](https://audits.sherlock.xyz/contests/99)     | 1 high  |-         | -     | 874     | 07-2023
 |[Allo V2](https://audits.sherlock.xyz/contests/109)          | 1 high  |5 mediums |-          | 1648   | 09-2023
 
@@ -47,10 +46,10 @@ Updated 28/12/2023
 | Contest | High risk | Medium risk | Security report | nSLOC|Date
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top)     | 4 high | - | -  | 1503 |08-2023
-| [Dopex](https://code4rena.com/audits/2023-08-dopex#top)     |2 high  | - | - | 2264 |09-2023
+| [Dopex](https://code4rena.com/audits/2023-08-dopex#top)     |1 high  | 1 medium | - | 2264 |09-2023
 | [Open Dollar](https://code4rena.com/audits/2023-10-open-dollar#top)     | 1 high | 6 medium |  -   | 998 | 09-2023
 | [Ethena Labs](https://code4rena.com/audits/2023-10-ethena-labs#top)     | - | 1 medium |  -   | 588 | 09-2023
-| [Next Gen](https://code4rena.com/audits/2023-10-ethena-labs#top)     | - | 3 medium |  -   | 1256 | 11-2023
+| [Next Gen](https://code4rena.com/audits/2023-10-ethena-labs#top)     | 1 high | 2 medium |  -   | 1256 | 11-2023
 | [Canto](https://code4rena.com/audits/2023-10-ethena-labs#top)     | - | 2 medium |  -   | 316 | 11-2023
 
 # CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=50 height=27>
