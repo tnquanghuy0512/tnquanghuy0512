@@ -1,36 +1,18 @@
-Updated 24/02/2023
+Updated 28/02/2023
 
 ### About me
-
-
 - Discord: 0xhuy0512
 - Twitter: 0xhuy0512
 
 - Viet Nam  🇻🇳 (GMT+7)
-- June 2022 - June 2023: Smart contract developer
+- June 2022 - June 2023: Solidity developer
 - June 2023 - Now: Independent smart contract auditor/security researcher
 
 # My wall of achievements
-| Overall issues found | High risk |  Medium risk | Audited contests  |
-|:--:|:--:|:--:|:--:|
-| 32 issues found | 12 |20| 12 contests |
-<!--
-# My monthly tracking 
-### 1 June, 2023 - 1 July, 2023 
-| Total issues | High risk | Medium risk | Audited contests | Security reports | Earned payouts |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| 1 issue found | -  | 1 medium | 1 contest | - | 1005 USDC |
+| Overall issues found | High risk |  Medium risk | Low risk | Audited contests  |
+|:--:|:--:|:--:|:--:|:--:|
+| 36 issues found | 15 | 21 | 7 | 18 contests |
 
-### 1 July, 2023 - 1 August, 2023 
-| Total issues | High risk | Medium risk | Audited contests | Security reports | Earned payouts |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| 10 issues found  | 4 highs  | 6 mediums  | 7 contests | - | 246 USDC |
-
-### 1 August, 2023 - 1 September, 2023 
-| Total issues | High risk | Medium risk | Audited contests | Security reports | Earned payouts |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| 6 issues found  | 2 highs  | 4 mediums  | 1 contests | - | - |
--->
 # Sherlock <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=30 height=30>
 
 ### Audit Competitions
@@ -39,7 +21,8 @@ Updated 24/02/2023
 | [Iron Bank](https://audits.sherlock.xyz/contests/84)        | 1 medium | [link](https://github.com/tnquanghuy0512/audits/blob/main/Sherlock/2023-05-ironbank.md) | 2250 |06-2023
 | [Bond Options](https://audits.sherlock.xyz/contests/99)     | 1 high | [link](https://github.com/tnquanghuy0512/audits/blob/main/Sherlock/2023-05-bond-options.md) | 874  | 07-2023
 |[Allo V2](https://audits.sherlock.xyz/contests/109)          | 1 high, 5 medium | [link](https://github.com/tnquanghuy0512/audits/blob/main/Sherlock/2023-09-allo-v2.md) | 1648 | 09-2023
-
+|[LookRare YOLO](https://audits.sherlock.xyz/contests/163)          | 1 high | [link](https://github.com/tnquanghuy0512/audits/blob/main/Sherlock/2024-01-lookrare-yolo.md) | 1090 | 01-2024
+|[Arcadia](https://audits.sherlock.xyz/contests/137)          | ... | ... | 3054 | 01-2023
 # Code4rena <img src="https://code4rena.com/favicon.ico" width=30 height=30>
 
 ### Audit Competitions
@@ -58,6 +41,16 @@ Updated 24/02/2023
 | Contest | Found | Security report   | nSLOC | Date
 |:--:|:--:|:--:|:--:|:--:|
 | [Superform](https://cantina.xyz/competitions/2cd0b038-3e32-4db6-b488-0f85b6f0e49f)     | 1 medium | [link](https://github.com/tnquanghuy0512/audits/blob/main/Cantina/2023-12-superform.md) | 6858 |12-2023
+| [3DNS](https://cantina.xyz/code/cdb738fd-0e7f-4a6b-9073-2b8629bfc1c3/README.md)     | ... | ... | 2301 |02-2024
+
+# Secure3 <img src="https://edgein-image-upload-rmdev-new.s3.us-west-2.amazonaws.com/1666760702246.svg" width=150 height=30>
+
+### Audit Competitions
+| Contest | Found | Security report   | nSLOC | Date
+|:--:|:--:|:--:|:--:|:--:|
+| [MagieLaunchpad](https://secure3.io/contest/766a8309)     | 7 low | [link](https://github.com/tnquanghuy0512/audits/blob/main/Private%20audit/Secure3/2023-11-magpie-launchpad.md) | 442 |11-2023
+| [MagieLaunchpadUpdate](https://secure3.io/contest/89039b8f)     | ... | ... | 443 |12-2023
+| [Mitosis](https://secure3.io/contest/766a8309)     | ... | ... | 1163 |02-2024
 
 
 # CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=30 height=30>
