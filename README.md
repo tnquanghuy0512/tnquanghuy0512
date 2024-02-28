@@ -3,9 +3,10 @@ Updated 28/02/2023
 ### About me
 - Discord: 0xhuy0512
 - Twitter: 0xhuy0512
+- Live in Viet Nam  🇻🇳 (GMT+7)
 
-- Viet Nam  🇻🇳 (GMT+7)
-- June 2022 - June 2023: Solidity developer
+### Experience:
+- June 2022 - June 2023: Solidity developer at [Sotatek](https://www.sotatek.com/about-us/)
 - June 2023 - Now: Independent smart contract auditor/security researcher
 
 # My wall of achievements
