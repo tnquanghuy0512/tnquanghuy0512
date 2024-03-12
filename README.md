@@ -17,7 +17,7 @@ Updated in 12/03/2023
 # Sherlock <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=30 height=30>
 
 ### Audit Competitions
-| Contest | Found | Security report   | nSLOC | Date | Category
+| Contest | Found | Report   | nSLOC | Date | Category
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | [Iron Bank](https://audits.sherlock.xyz/contests/84)        | 1 medium | [link](https://github.com/tnquanghuy0512/audits/blob/main/Sherlock/2023-05-ironbank.md) | 2250 |06-2023 | Lending
 | [Bond Options](https://audits.sherlock.xyz/contests/99)     | 1 high | [link](https://github.com/tnquanghuy0512/audits/blob/main/Sherlock/2023-05-bond-options.md) | 874  | 07-2023 | Services
@@ -27,7 +27,7 @@ Updated in 12/03/2023
 # Code4rena <img src="https://code4rena.com/favicon.ico" width=30 height=30>
 
 ### Audit Competitions
-| Contest | Found | Security report | nSLOC|Date | Category
+| Contest | Found | Report | nSLOC|Date | Category
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top)     | 4 high | [link](https://github.com/tnquanghuy0512/audits/blob/main/Code4rena/2023-08-tangible-caviar.md) | 1503 | 08-2023 | Vote escrow
 | [Dopex](https://code4rena.com/audits/2023-08-dopex#top)                           | 1 high, 1 medium | [link](https://github.com/tnquanghuy0512/audits/blob/main/Code4rena/2023-09-dopex.md) | 2264 | 09-2023 | Staking
@@ -39,7 +39,7 @@ Updated in 12/03/2023
 # Cantina <img src="https://cantina.xyz/favicon.ico" width=30 height=30>
 
 ### Audit Competitions
-| Contest | Found | Security report   | nSLOC | Date | Category
+| Contest | Found | Report | nSLOC | Date | Category
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | [Superform](https://cantina.xyz/competitions/2cd0b038-3e32-4db6-b488-0f85b6f0e49f)     | 1 medium | [link](https://github.com/tnquanghuy0512/audits/blob/main/Cantina/2023-12-superform.md) | 6858 |12-2023 | Crosschain liquidity, LayerZero
 | [3DNS](https://cantina.xyz/code/cdb738fd-0e7f-4a6b-9073-2b8629bfc1c3/README.md)     | ... | ... | 2301 |02-2024 | Domain marketplace, ENS
@@ -47,7 +47,7 @@ Updated in 12/03/2023
 # Secure3 <img src="https://edgein-image-upload-rmdev-new.s3.us-west-2.amazonaws.com/1666760702246.svg" width=150 height=30>
 
 ### Audit Competitions
-| Contest | Found | Security report   | nSLOC | Date | Category
+| Contest | Found | Report | nSLOC | Date | Category
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | [MagieLaunchpad](https://secure3.io/contest/766a8309)     | 7 low | [link](https://github.com/tnquanghuy0512/audits/blob/main/Private%20audit/Secure3/2023-11-magpie-launchpad.md) | 442 |11-2023 | Launchpad
 | [MagieLaunchpadUpdate](https://secure3.io/contest/89039b8f)     | 1 medium, 4 low | ... | 443 |12-2023 | Launchpad
@@ -57,7 +57,7 @@ Updated in 12/03/2023
 # CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=30 height=30>
 
 ### Audit Competitions
-| Contest | Found | Security report  | nSLOC |Date | Category
+| Contest | Found | Report | nSLOC |Date | Category
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | [Stablecoin](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0)     | 1 high, 1 medium | [link](https://github.com/tnquanghuy0512/audits/blob/main/CodeHawks/2023-07-stablecoin.md) | 236 |07-2023 | Stablecoin
 | [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)         | 2 high, 1 medium | [link](https://github.com/tnquanghuy0512/audits/blob/main/CodeHawks/2023-07-beedle.md) | 706 |07-2023 | Lending
@@ -65,7 +65,7 @@ Updated in 12/03/2023
 # Immunefi <img src="https://immunefi.com/images/logo-white.svg" width=150 height=30>
 
 ### Bug bounties
-| Project | Severity | Security Report  | Status | Date
-|:--:|:--:|:--:|:--:|:--:|
+| Project | Severity | Report | Status | Date| Category
+|:--:|:--:|:--:|:--:|:--:|:--:|
 | LandX | 1 High | [link](https://github.com/tnquanghuy0512/audits/blob/main/Immunefi/2023-12-land-x.md) | Pending | 12-2023 | Real world assets
 | Pika Protocol V4 | 1 Critical | [link](https://github.com/tnquanghuy0512/audits/blob/main/Immunefi/2024-01-pika-protocol.md) | Valid but duplicated | 01-2024 | Futures trading
