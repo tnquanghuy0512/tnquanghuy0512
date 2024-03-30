@@ -1,4 +1,4 @@
-Updated in 12/03/2023
+Updated in 30/03/2023
 
 ### About me
 - Discord: 0xhuy0512
@@ -43,7 +43,8 @@ Updated in 12/03/2023
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | [Superform](https://cantina.xyz/competitions/2cd0b038-3e32-4db6-b488-0f85b6f0e49f)     | 1 medium | [link](https://github.com/tnquanghuy0512/audits/blob/main/Cantina/2023-12-superform.md) | 6858 |12-2023 | Crosschain liquidity, LayerZero
 | [3DNS](https://cantina.xyz/code/cdb738fd-0e7f-4a6b-9073-2b8629bfc1c3/README.md)     | ... | ... | 2301 |02-2024 | Domain marketplace, ENS
-
+| [Eigen Layer](https://cantina.xyz/code/4b6f08a7-e830-4499-9977-08e2c3b32068)     | ... | ... | 6229 |03-2024 | Restaking, infra
+| [Wormhole Native Token Transfer](https://cantina.xyz/code/627528d0-db8a-4c42-b8b4-a5760ff31baf/README.md)     | ... | ... | 2495 |03-2024 | Crosschain, bridge
 # Secure3 <img src="https://edgein-image-upload-rmdev-new.s3.us-west-2.amazonaws.com/1666760702246.svg" width=150 height=30>
 
 ### Audit Competitions
@@ -67,5 +68,5 @@ Updated in 12/03/2023
 ### Bug bounties
 | Project | Severity | Report | Status | Date| Category
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| LandX | 1 High | [link](https://github.com/tnquanghuy0512/audits/blob/main/Immunefi/2023-12-land-x.md) | Pending | 12-2023 | Real world assets
+| LandX | 1 High | [link](https://github.com/tnquanghuy0512/audits/blob/main/Immunefi/2023-12-land-x.md) | Valid but rejected | 12-2023 | Real world assets
 | Pika Protocol V4 | 1 Critical | [link](https://github.com/tnquanghuy0512/audits/blob/main/Immunefi/2024-01-pika-protocol.md) | Valid but duplicated | 01-2024 | Futures trading
