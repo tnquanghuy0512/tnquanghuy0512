@@ -1,4 +1,4 @@
-Updated in 30/03/2023
+Updated in 02/04/2023
 
 ### About me
 - Discord: 0xhuy0512
@@ -10,9 +10,9 @@ Updated in 30/03/2023
 - June 2023 - Now: Independent smart contract auditor/security researcher
 
 # My wall of achievements
-| Overall issues found | High risk |  Medium risk | Audited contests  |
+| Total H/Ms found | High risk |  Medium risk | Audited contests  |
 |:--:|:--:|:--:|:--:|
-| 38 issues found | 15 | 23 | 20 contests |
+| 48 issues found | 22 | 26 | 20 contests |
 
 # Sherlock <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=30 height=30>
 
@@ -52,7 +52,7 @@ Updated in 30/03/2023
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | [MagieLaunchpad](https://secure3.io/contest/766a8309)     | 7 low | [link](https://github.com/tnquanghuy0512/audits/blob/main/Private%20audit/Secure3/2023-11-magpie-launchpad.md) | 442 |11-2023 | Launchpad
 | [MagieLaunchpadUpdate](https://secure3.io/contest/89039b8f)     | 1 medium, 4 low | ... | 443 |12-2023 | Launchpad
-| [Mitosis](https://secure3.io/contest/e377f59b8e)     | ... | ... | 1163 |02-2024| Crosschain liquidity
+| [Mitosis](https://secure3.io/contest/e377f59b8e)     | 7 high, 3 medium, 2 low | ... | 1163 |02-2024| Crosschain liquidity
 
 
 # CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=30 height=30>
