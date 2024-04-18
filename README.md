@@ -1,72 +1,53 @@
-Updated in 02/04/2023
+Updated in 18/04/2023
 
-### About me
-- Discord: 0xhuy0512
-- Twitter: 0xhuy0512
+# About me
+- Just a independent security researcher
 - Live in Vietnam  🇻🇳 (GMT+7)
 
-### Experience:
+- Contact me: 
+    + Mail: 0xhuy0512@gmail.com
+    + Twitter: 0xhuy0512
+    + Discord: 0xhuy0512
+    + Telegram: @Oxhuy0512
+# Experience:
 - June 2022 - June 2023: Solidity developer at [Sotatek](https://www.sotatek.com/about-us/)
-- June 2023 - Now: Independent smart contract auditor/security researcher
+- June 2023 - Now: Independent smart contract security researcher
 
-# My wall of achievements
-| Total H/Ms found | High risk |  Medium risk | Audited contests  |
-|:--:|:--:|:--:|:--:|
-| 48 issues found | 22 | 26 | 20 contests |
-
-# Sherlock <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=30 height=30>
-
-### Audit Competitions
-| Contest | Found | Report   | nSLOC | Date | Category
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| [Iron Bank](https://audits.sherlock.xyz/contests/84)        | 1 medium | [link](https://github.com/tnquanghuy0512/audits/blob/main/Sherlock/2023-05-ironbank.md) | 2250 |06-2023 | Lending
-| [Bond Options](https://audits.sherlock.xyz/contests/99)     | 1 high | [link](https://github.com/tnquanghuy0512/audits/blob/main/Sherlock/2023-05-bond-options.md) | 874  | 07-2023 | Services
-|[Allo V2](https://audits.sherlock.xyz/contests/109)          | 1 high, 5 medium | [link](https://github.com/tnquanghuy0512/audits/blob/main/Sherlock/2023-09-allo-v2.md) | 1648 | 09-2023 | Services
-|[LookRare YOLO](https://audits.sherlock.xyz/contests/163)          | 1 high | [link](https://github.com/tnquanghuy0512/audits/blob/main/Sherlock/2024-01-lookrare-yolo.md) | 1090 | 01-2024 | Onchain Game
-|[Arcadia](https://audits.sherlock.xyz/contests/137)          | 1 medium | ... | 3054 | 01-2023 | Lending
-# Code4rena <img src="https://code4rena.com/favicon.ico" width=30 height=30>
-
-### Audit Competitions
-| Contest | Found | Report | nSLOC|Date | Category
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top)     | 4 high | [link](https://github.com/tnquanghuy0512/audits/blob/main/Code4rena/2023-08-tangible-caviar.md) | 1503 | 08-2023 | Vote escrow
-| [Dopex](https://code4rena.com/audits/2023-08-dopex#top)                           | 1 high, 1 medium | [link](https://github.com/tnquanghuy0512/audits/blob/main/Code4rena/2023-09-dopex.md) | 2264 | 09-2023 | Staking
-| [Open Dollar](https://code4rena.com/audits/2023-10-open-dollar#top)               | 1 high, 6 medium | [link](https://github.com/tnquanghuy0512/audits/blob/main/Code4rena/2023-10-ethena-labs.md) | 998  | 09-2023 | Lending, Stablecoin
-| [Ethena Labs](https://code4rena.com/audits/2023-10-ethena-labs#top)               | 1 medium | [link](https://github.com/tnquanghuy0512/audits/blob/main/Code4rena/2023-10-open-dollar.md) | 588  | 09-2023 | Perpetuals position, Stablecoin
-| [Next Gen](https://code4rena.com/audits/2023-10-nextgen#top)                      | 1 high, 2 medium | [link](https://github.com/tnquanghuy0512/audits/blob/main/Code4rena/2023-11-nextgen.md) | 1256 | 11-2023 | NFT, Generative art
-| [Canto](https://code4rena.com/audits/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s#top)                     | 2 medium | [link](https://github.com/tnquanghuy0512/audits/blob/main/Code4rena/2023-12-canto.md) | 316  | 11-2023 | Stablecoin, ERC1155
-
-# Cantina <img src="https://cantina.xyz/favicon.ico" width=30 height=30>
-
-### Audit Competitions
-| Contest | Found | Report | nSLOC | Date | Category
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| [Superform](https://cantina.xyz/competitions/2cd0b038-3e32-4db6-b488-0f85b6f0e49f)     | 1 medium | [link](https://github.com/tnquanghuy0512/audits/blob/main/Cantina/2023-12-superform.md) | 6858 |12-2023 | Crosschain liquidity, LayerZero
-| [3DNS](https://cantina.xyz/code/cdb738fd-0e7f-4a6b-9073-2b8629bfc1c3/README.md)     | ... | ... | 2301 |02-2024 | Domain marketplace, ENS
-| [Eigen Layer](https://cantina.xyz/code/4b6f08a7-e830-4499-9977-08e2c3b32068)     | ... | ... | 6229 |03-2024 | Restaking, infra
-| [Wormhole Native Token Transfer](https://cantina.xyz/code/627528d0-db8a-4c42-b8b4-a5760ff31baf/README.md)     | ... | ... | 2495 |03-2024 | Crosschain, bridge
-# Secure3 <img src="https://edgein-image-upload-rmdev-new.s3.us-west-2.amazonaws.com/1666760702246.svg" width=150 height=30>
-
-### Audit Competitions
-| Contest | Found | Report | nSLOC | Date | Category
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| [MagieLaunchpad](https://secure3.io/contest/766a8309)     | 7 low | [link](https://github.com/tnquanghuy0512/audits/blob/main/Private%20audit/Secure3/2023-11-magpie-launchpad.md) | 442 |11-2023 | Launchpad
-| [MagieLaunchpadUpdate](https://secure3.io/contest/89039b8f)     | 1 medium, 4 low | ... | 443 |12-2023 | Launchpad
-| [Mitosis](https://secure3.io/contest/e377f59b8e)     | 7 high, 3 medium, 2 low | ... | 1163 |02-2024| Crosschain liquidity
+# Highlights
+- Audited 19 contest so far
+- Found 48 High/Medium bug
+- #1 in Mitosis contest
+- #3 in Wormhole contest
+- ...
 
 
-# CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=30 height=30>
+# Audit Contest
+| Contest | Found | Report   | nSLOC | Date | Platform | Category
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| [Wormhole](https://cantina.xyz/code/627528d0-db8a-4c42-b8b4-a5760ff31baf/README.md)     | 1 M | [link](https://github.com/tnquanghuy0512/audits/blob/main/Cantina/2024-03-wormhole.md) | 2495 |Mar 2024 | Cantina <img src="https://cantina.xyz/favicon.ico" width=20 height=20> | Crosschain, bridge
+| [Mitosis](https://secure3.io/contest/e377f59b8e)     | 7 H, 2 M, 2 L | [link](https://github.com/tnquanghuy0512/audits/blob/main/Private%20audit/Secure3/2024-02-mitosis.md) | 1163 |Feb 2024 | Secure3 <img src="https://secure3.io/favicon.ico" width=20 height=20> | Crosschain liquidity
+| [3DNS](https://cantina.xyz/code/cdb738fd-0e7f-4a6b-9073-2b8629bfc1c3/README.md)     | ... | [link](https://github.com/tnquanghuy0512/audits/blob/main/Cantina/2024-02-3dns.md) | 2301 |Feb 2024 | Cantina <img src="https://cantina.xyz/favicon.ico" width=20 height=20> | Domain marketplace, ENS
+|[Arcadia](https://audits.sherlock.xyz/contests/137)          | 1 M | [link](https://github.com/tnquanghuy0512/audits/blob/main/Sherlock/2024-02-arcadia.md) | 3054 | Feb 2024 | Sherlock <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=15 height=15> | Lending
+|[LookRare YOLO](https://audits.sherlock.xyz/contests/163)          | 1 H | [link](https://github.com/tnquanghuy0512/audits/blob/main/Sherlock/2024-01-lookrare-yolo.md) | 1090 | Jan 2024 | Sherlock <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=15 height=15> | Onchain Game
+| [Superform](https://cantina.xyz/competitions/2cd0b038-3e32-4db6-b488-0f85b6f0e49f)     | 1 M | [link](https://github.com/tnquanghuy0512/audits/blob/main/Cantina/2023-12-superform.md) | 6858 |Dec 2023 | Cantina <img src="https://cantina.xyz/favicon.ico" width=20 height=20> | Crosschain liquidity, LayerZero
+| [Magpie Launchpad Update](https://secure3.io/contest/89039b8f)     | 1 M, 4 L | [link](https://github.com/tnquanghuy0512/audits/blob/main/Private%20audit/Secure3/2023-12-magpie-launchpad-update.md) | 443 |Dec 2023 | Secure3 <img src="https://secure3.io/favicon.ico" width=20 height=20> | Launchpad
+| [Magpie Launchpad](https://secure3.io/contest/766a8309)     | 7 L | [link](https://github.com/tnquanghuy0512/audits/blob/main/Private%20audit/Secure3/2023-11-magpie-launchpad.md) | 442 |Nov 2023 | Secure3 <img src="https://secure3.io/favicon.ico" width=20 height=20> | Launchpad
+| [Canto](https://code4rena.com/audits/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s#top)                     | 2 M | [link](https://github.com/tnquanghuy0512/audits/blob/main/Code4rena/2023-12-canto.md) | 316  | Nov 2023 | Code4rena <img src="https://code4rena.com/favicon.ico" width=15 height=15> | Stablecoin, ERC1155
+| [Next Gen](https://code4rena.com/audits/2023-10-nextgen#top)                      | 1 H, 2 M | [link](https://github.com/tnquanghuy0512/audits/blob/main/Code4rena/2023-11-nextgen.md) | 1256 | Nov 2023 | Code4rena <img src="https://code4rena.com/favicon.ico" width=15 height=15> | NFT, Generative art
+| [Ethena Labs](https://code4rena.com/audits/2023-10-ethena-labs#top)               | 1 M | [link](https://github.com/tnquanghuy0512/audits/blob/main/Code4rena/2023-10-open-dollar.md) | 588  | Sep 2023 | Code4rena <img src="https://code4rena.com/favicon.ico" width=15 height=15> | Perpetuals position, Stablecoin
+| [Open Dollar](https://code4rena.com/audits/2023-10-open-dollar#top)               | 1 H, 6 N | [link](https://github.com/tnquanghuy0512/audits/blob/main/Code4rena/2023-10-ethena-labs.md) | 998  | Sep 2023 | Code4rena <img src="https://code4rena.com/favicon.ico" width=15 height=15> | Lending, Stablecoin
+| [Dopex](https://code4rena.com/audits/2023-08-dopex#top)                           | 1 H, 1 M | [link](https://github.com/tnquanghuy0512/audits/blob/main/Code4rena/2023-09-dopex.md) | 2264 | Sep 2023 | Code4rena <img src="https://code4rena.com/favicon.ico" width=15 height=15> | Staking
+|[Allo V2](https://audits.sherlock.xyz/contests/109)          | 1 H, 5 M | [link](https://github.com/tnquanghuy0512/audits/blob/main/Sherlock/2023-09-allo-v2.md) | 1648 | Sep 2023 | Sherlock <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=15 height=15> | Services
+| [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top)     | 4 H | [link](https://github.com/tnquanghuy0512/audits/blob/main/Code4rena/2023-08-tangible-caviar.md) | 1503 | Aug 2023 | Code4rena <img src="https://code4rena.com/favicon.ico" width=15 height=15> | Vote escrow
+| [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)         | 2 H, 1 M | [link](https://github.com/tnquanghuy0512/audits/blob/main/CodeHawks/2023-07-beedle.md) | 706 |Jul 2023 | CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=15 height=15> | Lending
+| [Stablecoin](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0)     | 1 H, 1 M | [link](https://github.com/tnquanghuy0512/audits/blob/main/CodeHawks/2023-07-stablecoin.md) | 236 |Jul 2023 | CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=15 height=15> | Stablecoin
+| [Bond Options](https://audits.sherlock.xyz/contests/99)     | 1 H | [link](https://github.com/tnquanghuy0512/audits/blob/main/Sherlock/2023-05-bond-options.md) | 874  | Jul 2023 | Sherlock <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=15 height=15> | Services
+| [Iron Bank](https://audits.sherlock.xyz/contests/84)        | 1 M | [link](https://github.com/tnquanghuy0512/audits/blob/main/Sherlock/2023-05-ironbank.md) | 2250 |Jun 2023 | Sherlock <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=15 height=15> | Lending
 
-### Audit Competitions
-| Contest | Found | Report | nSLOC |Date | Category
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| [Stablecoin](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0)     | 1 high, 1 medium | [link](https://github.com/tnquanghuy0512/audits/blob/main/CodeHawks/2023-07-stablecoin.md) | 236 |07-2023 | Stablecoin
-| [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)         | 2 high, 1 medium | [link](https://github.com/tnquanghuy0512/audits/blob/main/CodeHawks/2023-07-beedle.md) | 706 |07-2023 | Lending
 
-# Immunefi <img src="https://immunefi.com/images/logo-white.svg" width=150 height=30>
 
 ### Bug bounties
-| Project | Severity | Report | Status | Date| Category
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| LandX | 1 High | [link](https://github.com/tnquanghuy0512/audits/blob/main/Immunefi/2023-12-land-x.md) | Valid but rejected | 12-2023 | Real world assets
-| Pika Protocol V4 | 1 Critical | [link](https://github.com/tnquanghuy0512/audits/blob/main/Immunefi/2024-01-pika-protocol.md) | Valid but duplicated | 01-2024 | Futures trading
+| Project | Severity | Report | Status | Date| Platform| Category
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| LandX | 1 High | [link](https://github.com/tnquanghuy0512/audits/blob/main/Immunefi/2023-12-land-x.md) | Valid but rejected | Sep 2023 | Immunefi <img src="https://immunefi.com/favicon-32x32.png" width =20 height=20> | Real world assets
+| Pika Protocol V4 | 1 Critical | [link](https://github.com/tnquanghuy0512/audits/blob/main/Immunefi/2024-01-pika-protocol.md) | Valid but duplicated | Jan 2024 | Immunefi <img src="https://immunefi.com/favicon-32x32.png" width =20 height=20>| Futures trading
