@@ -1,4 +1,4 @@
-Updated in 18/04/2023
+Updated in 02/05/2024
 
 # About me
 - Just a independent security researcher
@@ -15,18 +15,19 @@ Updated in 18/04/2023
 
 # Highlights
 - Audited 19 contest so far
-- Found 48 High/Medium bug
-- #1 in Mitosis contest
-- #4 in Wormhole contest
-- #5 in IronBank contest
-
+- Found 52 High/Medium bug
+- #1 in [Mitosis contest](https://secure3.io/contest/e377f59b8e)
+- #4 in [Wormhole contest](https://cantina.xyz/code/627528d0-db8a-4c42-b8b4-a5760ff31baf/README.md)
+- #5 in [IronBank contest](https://audits.sherlock.xyz/contests/84)
+- #6 in [3DNS contest](https://cantina.xyz/code/cdb738fd-0e7f-4a6b-9073-2b8629bfc1c3/README.md)
 
 # Audit Contest
 | Contest | Found | Report   | nSLOC | Date | Platform | Category
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| [Mitosis](https://secure3.io/contest/e377f59b8e)     | ... | ... | 879 |Apr 2024 | Secure3 <img src="https://secure3.io/favicon.ico" width=20 height=20> | ...
 | [Wormhole](https://cantina.xyz/code/627528d0-db8a-4c42-b8b4-a5760ff31baf/README.md)     | 1 M | [link](https://github.com/tnquanghuy0512/audits/blob/main/Cantina/2024-03-wormhole.md) | 2495 |Mar 2024 | Cantina <img src="https://cantina.xyz/favicon.ico" width=20 height=20> | Crosschain, bridge
 | [Mitosis](https://secure3.io/contest/e377f59b8e)     | 7 H, 2 M, 2 L | [link](https://github.com/tnquanghuy0512/audits/blob/main/Private%20audit/Secure3/2024-02-mitosis.md) | 1163 |Feb 2024 | Secure3 <img src="https://secure3.io/favicon.ico" width=20 height=20> | Crosschain liquidity
-| [3DNS](https://cantina.xyz/code/cdb738fd-0e7f-4a6b-9073-2b8629bfc1c3/README.md)     | ... | [link](https://github.com/tnquanghuy0512/audits/blob/main/Cantina/2024-02-3dns.md) | 2301 |Feb 2024 | Cantina <img src="https://cantina.xyz/favicon.ico" width=20 height=20> | Domain marketplace, ENS
+| [3DNS](https://cantina.xyz/code/cdb738fd-0e7f-4a6b-9073-2b8629bfc1c3/README.md)     | 2 H, 2 M | [link](https://github.com/tnquanghuy0512/audits/blob/main/Cantina/2024-02-3dns.md) | 2301 |Feb 2024 | Cantina <img src="https://cantina.xyz/favicon.ico" width=20 height=20> | Domain marketplace, ENS
 |[Arcadia](https://audits.sherlock.xyz/contests/137)          | 1 M | [link](https://github.com/tnquanghuy0512/audits/blob/main/Sherlock/2024-02-arcadia.md) | 3054 | Feb 2024 | Sherlock <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=15 height=15> | Lending
 |[LookRare YOLO](https://audits.sherlock.xyz/contests/163)          | 1 H | [link](https://github.com/tnquanghuy0512/audits/blob/main/Sherlock/2024-01-lookrare-yolo.md) | 1090 | Jan 2024 | Sherlock <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=15 height=15> | Onchain Game
 | [Superform](https://cantina.xyz/competitions/2cd0b038-3e32-4db6-b488-0f85b6f0e49f)     | 1 M | [link](https://github.com/tnquanghuy0512/audits/blob/main/Cantina/2023-12-superform.md) | 6858 |Dec 2023 | Cantina <img src="https://cantina.xyz/favicon.ico" width=20 height=20> | Crosschain liquidity, LayerZero
