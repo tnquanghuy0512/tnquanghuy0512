@@ -11,7 +11,8 @@ Updated in 02-May-24
 
 # Highlights
 - Audited 20 contests
-- Found 24 High bugs and 28 Medium bugs
+- Found 22 High bugs and 28 Medium bugs in contest
+- Found 1 Critical and 1 High bugs in live bug bounties
 - Placed 1st in [Mitosis contest](https://secure3.io/contest/e377f59b8e) on Secure3
 - Placed 4rd in [Wormhole contest](https://cantina.xyz/code/627528d0-db8a-4c42-b8b4-a5760ff31baf/README.md) on Cantina
 - Placed 5rd in [IronBank contest](https://audits.sherlock.xyz/contests/84/leaderboard) on Sherlock
