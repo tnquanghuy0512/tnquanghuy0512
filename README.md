@@ -1,17 +1,17 @@
-Updated in 02-May-24
+Updated in 06-May-24
 
-# Hi I'm Huy, an independent security researcher
+# Hi I'm Huy, an independent Web3 security researcher
 - Contact me: 
     + Mail: 0xhuy0512@gmail.com
     + Twitter/X: [0xhuy0512](https://twitter.com/0xhuy0512)
 # Experience
 - Education: Bachelors of Information Technology at [UET-VNU (University of Engineering and Technology - Vietnam National University)](https://uet.vnu.edu.vn/en/)
-- June 2022 - June 2023: Solidity developer at [Sotatek](https://www.sotatek.com/about-us/)
-- June 2023 - Now: Independent smart contract security researcher
+- June 2022 - June 2023: Fullstack EVM and Algorand developer at [Sotatek](https://www.sotatek.com/about-us/)
+- June 2023 - Now: Independent Web3 security researcher
 
 # Highlights
 - Audited 20 contests
-- Found 22 High bugs and 28 Medium bugs in contest
+- Found 22 High bugs and 28 Medium bugs in contests
 - Found 1 Critical and 1 High bugs in live bug bounties
 - Placed 1st in [Mitosis contest](https://secure3.io/contest/e377f59b8e) on Secure3
 - Placed 4th in [Wormhole contest](https://cantina.xyz/code/627528d0-db8a-4c42-b8b4-a5760ff31baf/README.md) on Cantina
