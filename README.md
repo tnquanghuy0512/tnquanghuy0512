@@ -1,4 +1,4 @@
-Updated in 08-Jul-24
+Updated in 17-Jul-24
 
 # Hi I'm Huy, an independent Web3 security researcher
 - Contact me: 
@@ -10,10 +10,11 @@ Updated in 08-Jul-24
 - June 2023 - May 2024: Independent Web3 security researcher
 - June 2024 - Now: Apprentice security researcher at [0xMacro](https://0xmacro.com/)
 # Highlights
-- Audited 20 contests
-- Found 22 High bugs and 29 Medium bugs in contests
+- Audited 22 contests
+- Found 24 High bugs and 30 Medium bugs in contests
 - Found 1 Critical and 1 High bugs in live bug bounties
 - Placed 1st in [Mitosis contest](https://secure3.io/contest/e377f59b8e) on Secure3
+- Placed 1st in [FBTC](https://app.secure3.io/614576bf93) on Secure3
 - Placed 4th in [Wormhole contest](https://cantina.xyz/code/627528d0-db8a-4c42-b8b4-a5760ff31baf/README.md) on Cantina
 - Placed 5th in [IronBank contest](https://audits.sherlock.xyz/contests/84/leaderboard) on Sherlock
 - Placed 6th in [3DNS contest](https://cantina.xyz/code/cdb738fd-0e7f-4a6b-9073-2b8629bfc1c3/README.md) on Cantina
@@ -21,9 +22,9 @@ Updated in 08-Jul-24
 # Audit Contest
 | Contest | Found | Report   | nSLOC | Date | Platform | Category
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| [FBTC](https://app.secure3.io/614576bf93)     | ... | ... | 886 |May 2024 | Secure3 <img src="./img/secure3.ico" width=20 height=20> | BTC bridge
-| [Optimism Safe Extensions](https://cantina.xyz/competitions/d47f8096-8858-437d-a9f5-2fe85ac9b95e)     | 1M | ... | 329 |May 2024 | Cantina <img src="./img/cantina.ico" width=20 height=20> | Gnosis Safe, Security Council
-| [EthosX Operp](https://secure3.io/contest/e377f59b8e)     | ... | ... | 879 |Apr 2024 | Secure3 <img src="./img/secure3.ico" width=20 height=20> | Put options
+| [FBTC](https://app.secure3.io/614576bf93)     | 2 H | [link](https://github.com/tnquanghuy0512/audits/blob/main/Private%20audit/Secure3/2024-05-fbtc.md) | 886 |May 2024 | Secure3 <img src="./img/secure3.ico" width=20 height=20> | BTC bridge
+| [Optimism Safe Extensions](https://cantina.xyz/competitions/d47f8096-8858-437d-a9f5-2fe85ac9b95e)     | 1 M | [link](https://github.com/tnquanghuy0512/audits/blob/main/Cantina/2024-05-optimism-safe-extensions.md) | 329 |May 2024 | Cantina <img src="./img/cantina.ico" width=20 height=20> | Gnosis Safe, Security Council
+| [EthosX Operp](https://app.secure3.io/d8d9615103)     | 1 M | [link](https://github.com/tnquanghuy0512/audits/blob/main/Private%20audit/Secure3/2024-04-ethosx-operp.md) | 879 |Apr 2024 | Secure3 <img src="./img/secure3.ico" width=20 height=20> | Put options
 | [Wormhole](https://cantina.xyz/code/627528d0-db8a-4c42-b8b4-a5760ff31baf/README.md)     | 1 M | [link](https://github.com/tnquanghuy0512/audits/blob/main/Cantina/2024-03-wormhole.md) | 2495 |Mar 2024 | Cantina <img src="./img/cantina.ico" width=20 height=20> | Crosschain, bridge
 | [Mitosis](https://secure3.io/contest/e377f59b8e)     | 7 H, 2 M, 2 L | [link](https://github.com/tnquanghuy0512/audits/blob/main/Private%20audit/Secure3/2024-02-mitosis.md) | 1163 |Feb 2024 | Secure3 <img src="./img/secure3.ico" width=20 height=20> | Crosschain liquidity
 | [3DNS](https://cantina.xyz/code/cdb738fd-0e7f-4a6b-9073-2b8629bfc1c3/README.md)     | 2 H, 2 M | [link](https://github.com/tnquanghuy0512/audits/blob/main/Cantina/2024-02-3dns.md) | 2301 |Feb 2024 | Cantina <img src="./img/cantina.ico" width=20 height=20> | Domain marketplace, ENS
