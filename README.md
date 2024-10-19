@@ -1,4 +1,4 @@
-Updated in 17-Jul-24
+Updated in 19-Oct-24
 
 # Hi I'm Huy, an independent Web3 security researcher
 - Contact me: 
@@ -8,7 +8,7 @@ Updated in 17-Jul-24
 - Education: Bachelors of Information Technology at [UET-VNU (University of Engineering and Technology - Vietnam National University)](https://uet.vnu.edu.vn/en/)
 - June 2022 - June 2023: Fullstack EVM and Algorand developer at [Sotatek](https://www.sotatek.com/about-us/)
 - June 2023 - May 2024: Independent Web3 security researcher
-- June 2024 - Now: Apprentice security researcher at [0xMacro](https://0xmacro.com/)
+- June 2024 - Now: Security researcher at [0xMacro](https://0xmacro.com/)
 # Highlights
 - Audited 22 contests
 - Found 24 High bugs and 30 Medium bugs in contests
