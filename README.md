@@ -26,8 +26,8 @@ Experienced smart contract security researcher and developer specializing in DeF
 # Highlights
 - Audited ~25 projects as security researcher at [0xMacro](https://0xmacro.com/)
 - Audited 22 projects in public contests
-- Found 24 High bugs and 30 Medium bugs in public contests
-- Found 1 Critical and 1 High bug in live bug bounties
+- Identified 24 High-severity bugs and 30 Medium-severity bugs in public contests
+- Discovered 1 Critical-severity and 1 High-severity bug in live bug bounties
 - Placed 1st in [Mitosis contest](https://secure3.io/contest/e377f59b8e) on Secure3
 - Placed 1st in [FBTC](https://app.secure3.io/614576bf93) on Secure3
 - Placed 4th in [Wormhole contest](https://cantina.xyz/code/627528d0-db8a-4c42-b8b4-a5760ff31baf/README.md) on Cantina
