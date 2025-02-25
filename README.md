@@ -1,10 +1,10 @@
-Updated: Feb 24, 2025
+Updated: Feb 25, 2025
 
-# Hi I'm Huy, an independent Web3 security researcher
+# Hi I'm Huy, a Web3 security researcher
 
 ## About Me
-Experienced smart contract security researcher specializing on EVM-compatible and Solana chains. Strong track record of identifying critical vulnerabilities across various blockchain platforms. Offering smart contract security services.
-
+Highly skilled smart contract security researcher with a focus on EVM-compatible and Solana blockchain ecosystems. Proven ability to detect and report critical vulnerabilities across a range of blockchain platforms, providing expert smart contract security services.
+I have been trusted by and secured smart contracts for major DeFi protocols such as [Infinex](https://infinex.xyz/), [Connext](https://www.connext.network/), [Maple](https://maple.finance/), [Thirdweb](https://thirdweb.com/), and other multi-million-dollar protocols.
 
 ## Technical Expertise
 - **Languages**: Solidity, Rust
@@ -12,20 +12,21 @@ Experienced smart contract security researcher specializing on EVM-compatible an
 - **Focus Areas**: Smart contracts security
 
 ## Contact me
-- **Mail**: `0xhuy0512@gmail.com`
+- **Mail**: [`0xhuy0512@gmail.com`](mailto:0xhuy0512@gmail.com)
 - **Twitter/X**: [`@0xhuy0512`](https://twitter.com/0xhuy0512)
-- **Discord**: `0xhuy0512`
+- **Telegram**: [`@Oxhuy0512`](https://t.me/Oxhuy0512)
+- **Discord**: [`0xhuy0512`](https://discordapp.com/users/1082973034148798555)
 
 # Experience
 <!-- - Education: Bachelor of Information Technology at [UET-VNU (University of Engineering and Technology - Vietnam National University)](https://uet.vnu.edu.vn/en/) -->
-- June 2022 - June 2023: Fullstack EVM and Algorand developer at [Sotatek](https://www.sotatek.com/about-us/)
-- June 2023 - May 2024: Independent Web3 security researcher
-- June 2024 - Now: Web3 security researcher at [0xMacro](https://0xmacro.com/)
+- **June 2022 - June 2023**: Fullstack EVM and Algorand developer at [Sotatek](https://www.sotatek.com/about-us/)
+- **June 2023 - May 2024**: Independent Web3 security researcher
+- **June 2024 - Present**: Web3 security researcher at [0xMacro](https://0xmacro.com/)
 # Highlights
-- Participated ~25 audits as security researcher at [0xMacro](https://0xmacro.com/)
-- Participated 24 audits in public contests
+- Participated in over 25 audits as security researcher at [0xMacro](https://0xmacro.com/)
+- Participated in 24 audits in public contests
 - Identified 24 High and 30 Medium bugs in public contests
-- Discovered 1 Critical and 1 High bugs in live bug bounties
+- Discovered 1 Critical and 1 High bug in live bug bounties
 - 🥇 place in [Mitosis contest](https://secure3.io/contest/e377f59b8e) on Secure3
 - 🥇 place in [FBTC](https://app.secure3.io/614576bf93) on Secure3
 - 🥈place in [Ethos Reputation](https://audits.sherlock.xyz/contests/735) on Sherlock
@@ -33,18 +34,18 @@ Experienced smart contract security researcher specializing on EVM-compatible an
 - 5th place in [IronBank contest](https://audits.sherlock.xyz/contests/84/leaderboard) on Sherlock
 <!-- - Placed 6th in [3DNS contest](https://cantina.xyz/code/cdb738fd-0e7f-4a6b-9073-2b8629bfc1c3/README.md) on Cantina -->
 
-# Audit work at [0xMacro](https://0xmacro.com/)
-### Solidity work
+# Audit works at [0xMacro](https://0xmacro.com/)
+### Solidity works
 | Audit | Found | Report  | Date | Category
 |:--:|:--:|:--:|:--:|:--:|
 [Superstate-5](https://superstate.co/) | 3 Quality | [link](https://0xmacro.com/library/audits/superstate-5) | Jan 2025 | Treasury Bills |
-[Agora-1](https://www.agora.finance/) | 1 Critical, 2 Medium, 2 Low, 11 Quality | private | Dec 2024 | Stable coin AMM |
+[Agora-1](https://www.agora.finance/) | 1 Critical, 2 Medium, 2 Low, 11 Quality | Private | Dec 2024 | Stable coin AMM |
 [Infinex-15](https://infinex.xyz/) | 1 Low, 1 Quality, 1 Informational | [link](https://0xmacro.com/library/audits/infinex-14) | Dec 2024 | Smart contract wallet |
 [Infinex-14](https://infinex.xyz/) | 1 Medium, 3 Low, 6 Quality, 1 Informational | [link](https://0xmacro.com/library/audits/infinex-14) | Nov 2024 | Smart contract wallet |
 [Superstate-3](https://superstate.co/) | 3 Medium, 2 Low, 5 Quality | [link](https://0xmacro.com/library/audits/superstate-3) | Nov 2024 | Oracle, Treasury Bills |
 [Infinex-12](https://infinex.xyz/) | 4 Low, 2 Quality, 1 Gas opt | [link](https://0xmacro.com/library/audits/infinex-12) | Oct 2024 | Smart contract wallet |
 [Infinex-11](https://infinex.xyz/) | 2 Medium, 5 Low, 9 Quality, 1 Gas opt | [link](https://0xmacro.com/library/audits/infinex-11) | Oct 2024 | Smart contract wallet |
-[Dorge-3](https://dorge.com/) | 1 Low, 1 Quality, 1 Gas Opt | private | Oct 2024 | Presale | 
+[Dorge-3](https://dorge.com/) | 1 Low, 1 Quality, 1 Gas Opt | Private | Oct 2024 | Presale |
 [Infinex-9](https://infinex.xyz/) | 1 Critical, 1 Medium | [link](https://0xmacro.com/library/audits/infinex-9) | Sep 2024 | Smart contract wallet |
 [Infinex-8](https://infinex.xyz/) | 1 Quality, 1 Gas Opt | [link](https://0xmacro.com/library/audits/infinex-8) | Aug 2024 | Smart contract wallet |
 [Infinex-7](https://infinex.xyz/) | 2 High, 1 Quality, 4 Gas opt | private | Aug 2024 | Smart contract wallet |
@@ -53,11 +54,12 @@ Experienced smart contract security researcher specializing on EVM-compatible an
 [Infinex-5](https://infinex.xyz/) | 3 Medium, 4 Low, 3 Quality | [link](https://0xmacro.com/library/audits/infinex-5) | Jul 2024 | Smart contract wallet |
 [Kwenta-16](https://v2.kwenta.io/) | 2 Medium, 1 Low, 6 Quality, 1 Informational | [link](https://0xmacro.com/library/audits/kwenta-16) | Jul 2024 | ERC-4337 |
 [Superstate-2](https://superstate.co/) | 1 Medium, 8 Quality | [link](https://0xmacro.com/library/audits/superstate-2) | Jul 2024 | Treasury Bills |
-[Dorge-1](https://dorge.com/) | 2 Low, 6 Quality | private | Jul 2024 | Presale
+[Dorge-1](https://dorge.com/) | 2 Low, 6 Quality | Private | Jul 2024 | Presale
 [Connext-7](https://www.connext.network/) | 1 Critical, 2 Medium, 1 Low, 3 Quality, 2 Informational | [link](https://0xmacro.com/library/audits/connext-7) | Jun 2024 | Crosschain |
 [Mintra-2](https://www.mintra.ai/) | 1 High, 3 Medium, 7 Low, 8 Quality, 1 Informational | [link](https://0xmacro.com/library/audits/mintra-2) | Jun 2024 | Launchpad |
 [Thirdweb-19](https://thirdweb.com/) | 7 Medium, 10 Low, 6 Quality | [link](https://0xmacro.com/library/audits/thirdweb-19) | Jun 2024 | Public library |
-### Others
+
+### Non-Solidity works
 | Audit | Found | Report  | Date | Category
 |:--:|:--:|:--:|:--:|:--:|
 [SevenSeas-29](https://sevenseas.capital/) | 1 High, 3 Medium, 2 Low, 14 Quality | [link](https://0xmacro.com/library/audits/sevenSeas-29)  | Feb 2024 | Solana, Anchor, Yielding |
@@ -78,7 +80,7 @@ Experienced smart contract security researcher specializing on EVM-compatible an
 
 
 
-# Audit Contest
+# Audit Contests
 | Contest | Found | Report  | Date | Platform | Category
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | [Ethos Reputation](https://audits.sherlock.xyz/contests/735)| 1 Medium | [link](https://github.com/tnquanghuy0512/audits/blob/main/Sherlock/2024-12-ethos.md)  | Dec 2024 | Sherlock <img src="./img/sherlock.svg" width=15 height=15> | Marketplace
