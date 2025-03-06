@@ -1,4 +1,4 @@
-Updated: Feb 27, 2025
+Updated: Mar 6, 2025
 
 # Hi, I'm Huy, an independent Web3 security researcher
 
@@ -21,15 +21,14 @@ I have been trusted by and secured smart contracts for major DeFi protocols such
 # Experience
 <!-- - Education: Bachelor of Information Technology at [UET-VNU (University of Engineering and Technology - Vietnam National University)](https://uet.vnu.edu.vn/en/) -->
 - **June 2022 - June 2023**: Fullstack EVM and Algorand developer at [Sotatek](https://www.sotatek.com/about-us/)
-- **June 2023 - Present**: Independent Web3 security researcher
-- **June 2024 - Present**: Working with [0xMacro](https://0xmacro.com/) as a Staff auditor
+- **June 2023 - Present**: Independent Web3 security researcher. Participating in contests, collaborating with [0xMacro](https://0xmacro.com/), [Spearbit](https://spearbit.com/), [Hashlock](https://hashlock.com/). Hunting bug bounties on Immunefi
+<!-- - **June 2024 - Present**: Working with [0xMacro](https://0xmacro.com/) as a Staff auditor -->
 
 
 # Highlights
 
-- Participated in over 25 audits as security researcher at [0xMacro](https://0xmacro.com/)
-- Participated in 24 audits in public contests
-- Identified 24 High and 30 Medium bugs in public contests
+- Participated in over 30 private audits with [0xMacro](https://0xmacro.com/), [Spearbit](https://spearbit.com/), and [Hashlock](https://hashlock.com/)
+- Participated in over 25 public contest audits, identifying 25+ High and 30+ Medium severity bugs
 - Discovered 1 Critical and 1 High bug in live bug bounties
 - 🥇 place in three contests on Secure3
 - 🥈 place in [Ethos Reputation contest](https://audits.sherlock.xyz/contests/735) on Sherlock
@@ -40,39 +39,46 @@ I have been trusted by and secured smart contracts for major DeFi protocols such
 - 🥇 place in [FBTC contest](https://app.secure3.io/614576bf93) on Secure3 -->
 
 
-# Audit works at [0xMacro](https://0xmacro.com/)
-
-
-### Solidity works
-| Audit | Found | Report  | Date | Category
-|:--:|:--:|:--:|:--:|:--:|
-[Superstate-5](https://superstate.co/) | 3 Quality | [link](https://0xmacro.com/library/audits/superstate-5) | Jan 2025 | Treasury Bills |
-[Agora-1](https://www.agora.finance/) | 1 Critical, 2 Medium, 2 Low, 11 Quality | Private | Dec 2024 | Stablecoin AMM |
-[Infinex-15](https://infinex.xyz/) | 1 Low, 1 Quality, 1 Informational | [link](https://0xmacro.com/library/audits/infinex-15) | Dec 2024 | Smart contract wallet |
-[Infinex-14](https://infinex.xyz/) | 1 Medium, 3 Low, 6 Quality, 1 Informational | [link](https://0xmacro.com/library/audits/infinex-14) | Nov 2024 | Smart contract wallet |
-[Superstate-3](https://superstate.co/) | 3 Medium, 2 Low, 5 Quality | [link](https://0xmacro.com/library/audits/superstate-3) | Nov 2024 | Oracle, Treasury Bills |
-[Infinex-12](https://infinex.xyz/) | 4 Low, 2 Quality, 1 Gas Opt | [link](https://0xmacro.com/library/audits/infinex-12) | Oct 2024 | Smart contract wallet |
-[Infinex-11](https://infinex.xyz/) | 2 Medium, 5 Low, 9 Quality, 1 Gas Opt | [link](https://0xmacro.com/library/audits/infinex-11) | Oct 2024 | Smart contract wallet |
-[Dorge-3](https://dorge.com/) | 1 Low, 1 Quality, 1 Gas Opt | Private | Oct 2024 | Presale |
-[Infinex-9](https://infinex.xyz/) | 1 Critical, 1 Medium | [link](https://0xmacro.com/library/audits/infinex-9) | Sep 2024 | Smart contract wallet |
-[Infinex-8](https://infinex.xyz/) | 1 Quality, 1 Gas Opt | [link](https://0xmacro.com/library/audits/infinex-8) | Aug 2024 | Smart contract wallet |
-[Infinex-7](https://infinex.xyz/) | 2 High, 1 Quality, 4 Gas Opt | Private | Aug 2024 | Smart contract wallet |
-[Maple-2](https://maple.finance/) | 1 Low, 2 Quality | [link](https://0xmacro.com/library/audits/maple-2)| Aug 2024 | Lending |
-[Infinex-6](https://infinex.xyz/) | 2 Low, 6 Quality | [link](https://0xmacro.com/library/audits/infinex-6) | Jul 2024 | Smart contract wallet |
-[Infinex-5](https://infinex.xyz/) | 3 Medium, 4 Low, 3 Quality | [link](https://0xmacro.com/library/audits/infinex-5) | Jul 2024 | Smart contract wallet |
-[Kwenta-16](https://v2.kwenta.io/) | 2 Medium, 1 Low, 6 Quality, 1 Informational | [link](https://0xmacro.com/library/audits/kwenta-16) | Jul 2024 | ERC-4337 |
-[Superstate-2](https://superstate.co/) | 1 Medium, 8 Quality | [link](https://0xmacro.com/library/audits/superstate-2) | Jul 2024 | Treasury Bills |
-[Dorge-1](https://dorge.com/) | 2 Low, 6 Quality | Private | Jul 2024 | Presale |
-[Connext-7](https://www.connext.network/) | 1 Critical, 2 Medium, 1 Low, 3 Quality, 2 Informational | [link](https://0xmacro.com/library/audits/connext-7) | Jun 2024 | Crosschain |
-[Mintra-2](https://www.mintra.ai/) | 1 High, 3 Medium, 7 Low, 8 Quality, 1 Informational | [link](https://0xmacro.com/library/audits/mintra-2) | Jun 2024 | Launchpad |
-[Thirdweb-19](https://thirdweb.com/) | 7 Medium, 10 Low, 6 Quality | [link](https://0xmacro.com/library/audits/thirdweb-19) | Jun 2024 | Public library |
-
+# Private audit works
 ### Non-Solidity works
-| Audit | Found | Report  | Date | Category
-|:--:|:--:|:--:|:--:|:--:|
-[SevenSeas-29](https://sevenseas.capital/) | 1 High, 3 Medium, 2 Low, 14 Quality | [link](https://0xmacro.com/library/audits/sevenSeas-29)  | Feb 2025 | Solana, Anchor, Yielding |
-[SevenSeas-20](https://sevenseas.capital/) | 1 Low, 4 Quality | [link](https://0xmacro.com/library/audits/sevenSeas-20)  | Nov 2024 | Solana, Anchor, Hyperlane integration |
-[Kwenta-18](https://v2.kwenta.io/) | 1 Critical, 2 High, 2 Medium, 2 Low, 6 Quality | [link](https://0xmacro.com/library/audits/kwenta-18) | Aug 2024 | zk, Golang |
+| Audit | Found | Report  | Date | Platform | Category
+|:--:|:--:|:--:|:--:|:--:|:--:|
+ORO | 9 Critical, 2 High, 5 Medium | ... | Mar 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Solana <img src="./img/solana.png" width=15 height=15>, Anchor, RWAs |
+[SevenSeas-29](https://sevenseas.capital/) | 1 High, 3 Medium, 2 Low, 14 Quality | [link](https://0xmacro.com/library/audits/sevenSeas-29)  | Feb 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Solana <img src="./img/solana.png" width=15 height=15>, Anchor, Yielding |
+[SevenSeas-20](https://sevenseas.capital/) | 1 Low, 4 Quality | [link](https://0xmacro.com/library/audits/sevenSeas-20)  | Nov 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Solana <img src="./img/solana.png" width=15 height=15>, Anchor, Hyperlane integration |
+[Kwenta-18](https://v2.kwenta.io/) | 1 Critical, 2 High, 2 Medium, 2 Low, 6 Quality | [link](https://0xmacro.com/library/audits/kwenta-18) | Aug 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Golang <img src="./img/go.png" width=20 height=20>, zero-knowledge |
+
+### Solidity works <img src="./img/ethereum.png" width=30 height=30>
+| Audit | Found | Report  | Date | Platform | Category
+|:--:|:--:|:--:|:--:|:--:|:--:|
+[Digital Era Bank](https://www.digitalerabank.com/) | 1 Medium, 1 Low | Private | Jan 2025 | Hashlock <img src="./img/hashlock.jpg" width=15 height=15> | Stablecoin |
+[Superstate-5](https://superstate.co/) | 3 Quality | [link](https://0xmacro.com/library/audits/superstate-5) | Jan 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Treasury Bills |
+[Agora-1](https://www.agora.finance/) | 1 Critical, 2 Medium, 2 Low, 11 Quality | Private | Dec 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Stablecoin AMM |
+[Infinex-15](https://infinex.xyz/) | 1 Low, 1 Quality, 1 Informational | [link](https://0xmacro.com/library/audits/infinex-15) | Dec 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Smart Contract Wallet |
+[Infinex-14](https://infinex.xyz/) | 1 Medium, 3 Low, 6 Quality, 1 Informational | [link](https://0xmacro.com/library/audits/infinex-14) | Nov 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Smart Contract Wallet |
+[Superstate-3](https://superstate.co/) | 3 Medium, 2 Low, 5 Quality | [link](https://0xmacro.com/library/audits/superstate-3) | Nov 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Oracle, Treasury Bills |
+[QTOK](https://qtok.io/) | 2 High, 6 Medium, 16 Low, 2 Gas Opt | Private | Oct 2024 | Hashlock <img src="./img/hashlock.jpg" width=15 height=15> | Presale, Staking, Vesting |
+[Infinex-12](https://infinex.xyz/) | 4 Low, 2 Quality, 1 Gas Opt | [link](https://0xmacro.com/library/audits/infinex-12) | Oct 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Smart Contract Wallet |
+[Infinex-11](https://infinex.xyz/) | 2 Medium, 5 Low, 9 Quality, 1 Gas Opt | [link](https://0xmacro.com/library/audits/infinex-11) | Oct 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Smart Contract Wallet |
+[Dorge-3](https://dorge.com/) | 1 Low, 1 Quality, 1 Gas Opt | Private | Oct 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Presale |
+[LottoPGF](https://lottopgf.org/) | 4 High, 2 Medium, 14 Low | Private | Sep 2024 | Hashlock <img src="./img/hashlock.jpg" width=15 height=15> | Lottery |
+[Infinex-9](https://infinex.xyz/) | 1 Critical, 1 Medium | [link](https://0xmacro.com/library/audits/infinex-9) | Sep 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Smart Contract Wallet |
+[Prodds](https://prodds.xyz/) | 1 High, 1 Medium, 13 Low, 2 Gas Opt | Private | Sep 2024 | Hashlock <img src="./img/hashlock.jpg" width=15 height=15> | Betting |
+[Infinex-8](https://infinex.xyz/) | 1 Quality, 1 Gas Opt | [link](https://0xmacro.com/library/audits/infinex-8) | Aug 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Smart Contract Wallet |
+[Infinex-7](https://infinex.xyz/) | 2 High, 1 Quality, 4 Gas Opt | Private | Aug 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Smart Contract Wallet |
+[Maple-2](https://maple.finance/) | 1 Low, 2 Quality | [link](https://0xmacro.com/library/audits/maple-2)| Aug 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Lending |
+[Infinex-6](https://infinex.xyz/) | 2 Low, 6 Quality | [link](https://0xmacro.com/library/audits/infinex-6) | Jul 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Smart Contract Wallet |
+[Infinex-5](https://infinex.xyz/) | 3 Medium, 4 Low, 3 Quality | [link](https://0xmacro.com/library/audits/infinex-5) | Jul 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Smart Contract Wallet |
+[Kwenta-16](https://v2.kwenta.io/) | 2 Medium, 1 Low, 6 Quality, 1 Informational | [link](https://0xmacro.com/library/audits/kwenta-16) | Jul 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | ERC-4337 |
+[Superstate-2](https://superstate.co/) | 1 Medium, 8 Quality | [link](https://0xmacro.com/library/audits/superstate-2) | Jul 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Treasury Bills |
+[Dorge-1](https://dorge.com/) | 2 Low, 6 Quality | Private | Jul 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Presale |
+[Connext-7](https://www.connext.network/) | 1 Critical, 2 Medium, 1 Low, 3 Quality, 2 Informational | [link](https://0xmacro.com/library/audits/connext-7) | Jun 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Crosschain |
+[Mintra-2](https://www.mintra.ai/) | 1 High, 3 Medium, 7 Low, 8 Quality, 1 Informational | [link](https://0xmacro.com/library/audits/mintra-2) | Jun 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Launchpad |
+[Thirdweb-19](https://thirdweb.com/) | 7 Medium, 10 Low, 6 Quality | [link](https://0xmacro.com/library/audits/thirdweb-19) | Jun 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Public Library |
+
+
+
+
 
 <!-- Infinex-15b | . | . | . | Nov 2024 | Smart contract wallet | -->
 <!-- Infinex-13 | . | . | Oct 2024 | Smart contract wallet |
