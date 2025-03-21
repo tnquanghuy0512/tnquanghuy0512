@@ -43,6 +43,7 @@ I have been trusted by and secured smart contracts for major DeFi protocols such
 ### Non-Solidity works
 | Audit | Found | Report  | Date | Platform | Category
 |:--:|:--:|:--:|:--:|:--:|:--:|
+Perena | ... | ... | Mar 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Solana <img src="./img/solana.png" width=15 height=15>, Native Rust, Stablecoin |
 ORO | 9 Critical, 2 High, 5 Medium | ... | Mar 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Solana <img src="./img/solana.png" width=15 height=15>, Anchor, RWAs |
 [SevenSeas-29](https://sevenseas.capital/) | 1 High, 3 Medium, 2 Low, 14 Quality | [link](https://0xmacro.com/library/audits/sevenSeas-29)  | Feb 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Solana <img src="./img/solana.png" width=15 height=15>, Anchor, Yielding |
 [SevenSeas-20](https://sevenseas.capital/) | 1 Low, 4 Quality | [link](https://0xmacro.com/library/audits/sevenSeas-20)  | Nov 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Solana <img src="./img/solana.png" width=15 height=15>, Anchor, Hyperlane integration |
