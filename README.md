@@ -1,18 +1,18 @@
-Updated: Apr 22, 2025
+Updated: May 12, 2025
 
 # Hi, I'm Huy, an independent Web3 security researcher
 
 ## About Me
-Highly skilled smart contract security researcher with a focus on EVM-compatible and Solana blockchain ecosystems. With proven ability to detect and report critical vulnerabilities across a range of blockchain platforms, I provide expert smart contract security services.
+Highly skilled smart contract security researcher with a focus on EVM-compatible and Solana blockchain ecosystems. With a proven ability to detect and report critical vulnerabilities across a range of blockchain platforms, I provide expert smart contract security services.
 
-I have been trusted by and secured smart contracts for major DeFi protocols such as [Infinex](https://infinex.xyz/), [Connext](https://www.connext.network/), [Maple](https://maple.finance/), [Thirdweb](https://thirdweb.com/), and other multi-million-dollar protocols.
+I have been trusted to secure smart contracts for major DeFi protocols such as [Infinex](https://infinex.xyz/), [Connext](https://www.connext.network/), [Maple](https://maple.finance/), [Thirdweb](https://thirdweb.com/), and other multi-million-dollar protocols.
 
 ## Technical Expertise
-- **Languages**: Solidity, Rust
-- **Platforms**: EVM, Solana
+- **Languages**: Rust, Solidity 
+- **Platforms**: Solana, EVM
 - **Focus Areas**: Smart contract security
 
-## Contact me
+## Contact Me
 - **Mail**: [`0xhuy0512@gmail.com`](mailto:0xhuy0512@gmail.com)
 - **Twitter/X**: [`@0xhuy0512`](https://twitter.com/0xhuy0512)
 - **Telegram**: [`@Oxhuy0512`](https://t.me/Oxhuy0512)
@@ -20,37 +20,42 @@ I have been trusted by and secured smart contracts for major DeFi protocols such
 
 # Experience
 <!-- - Education: Bachelor of Information Technology at [UET-VNU (University of Engineering and Technology - Vietnam National University)](https://uet.vnu.edu.vn/en/) -->
-- **June 2022 - June 2023**: Fullstack EVM and Algorand developer at [Sotatek](https://www.sotatek.com/about-us/)
-- **June 2023 - Present**: Independent Web3 security researcher. Participating in contests, collaborating with [0xMacro](https://0xmacro.com/), [Spearbit](https://spearbit.com/), [Hashlock](https://hashlock.com/). Hunting bug bounties on Immunefi
+- **June 2022 - June 2023**: Fullstack EVM developer at [Sotatek](https://www.sotatek.com/about-us/)
+- **June 2023 - Present**: Independent Web3 security researcher. Participating in contests, collaborating with [0xMacro](https://0xmacro.com/), [Spearbit](https://spearbit.com/), [Pashov](https://www.pashov.net/), and [Hashlock](https://hashlock.com/), and also hunting bug bounties on Immunefi
 <!-- - **June 2024 - Present**: Working with [0xMacro](https://0xmacro.com/) as a Staff auditor -->
 
 
 # Highlights
-
-- Participated in over 30 private audits with [0xMacro](https://0xmacro.com/), [Spearbit](https://spearbit.com/), and [Hashlock](https://hashlock.com/)
+- Found critical or high issues in 4 out of 6 Solana private audits.
+- Participated in over 30 private audits with [0xMacro](https://0xmacro.com/), [Spearbit](https://spearbit.com/), [Pashov](https://www.pashov.net/), and [Hashlock](https://hashlock.com/)
 - Participated in over 25 public contest audits, identifying 25+ High and 30+ Medium severity bugs
-- Discovered 1 Critical and 1 High bug in live bug bounties
-- 🥇 place in three contests on Secure3
+- 🥉 place in [Pumpfun contest](https://cantina.xyz/competitions/19c5a5a6-f68d-4da8-b185-3f28c7f97bc1) on Cantina
 - 🥈 place in [Ethos Reputation contest](https://audits.sherlock.xyz/contests/735) on Sherlock
 - 4th place in [Wormhole contest](https://cantina.xyz/code/627528d0-db8a-4c42-b8b4-a5760ff31baf/README.md) on Cantina
 - 5th place in [IronBank contest](https://audits.sherlock.xyz/contests/84/leaderboard) on Sherlock
+- Discovered 1 Critical and 1 High bug on Immunefi
+
 <!-- - Placed 6th in [3DNS contest](https://cantina.xyz/code/cdb738fd-0e7f-4a6b-9073-2b8629bfc1c3/README.md) on Cantina -->
 <!-- - 🥇 place  in [Mitosis contest](https://secure3.io/contest/e377f59b8e) on Secure3
 - 🥇 place in [FBTC contest](https://app.secure3.io/614576bf93) on Secure3 -->
 
 
-# Private audit works
-### Non-Solidity works
+
+# <img src="./img/solana.png" width=30 height=30> Solana works
 | Audit | Found | Report  | Date | Platform | Category
 |:--:|:--:|:--:|:--:|:--:|:--:|
-[Superstate-7](https://superstate.co/) | 2 Critical, 1 High, 3 Low, 4 Quality | Soon | April 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Solana <img src="./img/solana.png" width=15 height=15>, Native Rust, Treasury Bills |
-[Perena](https://perena.org/) | 4 Critical, 3 High, 4 Medium, 3 Low, 6 Informational | Soon | Mar 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Solana <img src="./img/solana.png" width=15 height=15>, Native Rust, Stablecoin |
-[ORO](https://orogold.app/) | 11 Critical, 1 High, 5 Medium, 3 Low, 5 Informational | Soon | Mar 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Solana <img src="./img/solana.png" width=15 height=15>, Anchor, RWAs |
-[SevenSeas-29](https://sevenseas.capital/) | 1 High, 3 Medium, 2 Low, 14 Quality | [📄](https://0xmacro.com/library/audits/sevenSeas-29)  | Feb 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Solana <img src="./img/solana.png" width=15 height=15>, Anchor, Yielding |
-[SevenSeas-20](https://sevenseas.capital/) | 1 Low, 4 Quality | [📄](https://0xmacro.com/library/audits/sevenSeas-20)  | Nov 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Solana <img src="./img/solana.png" width=15 height=15>, Anchor, Hyperlane integration |
-[Kwenta-18](https://v2.kwenta.io/) | 1 Critical, 2 High, 2 Medium, 2 Low, 6 Quality | [📄](https://0xmacro.com/library/audits/kwenta-18) | Aug 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Golang <img src="./img/go.png" width=20 height=20>, zero-knowledge |
+[Pumpfun audit](https://cantina.xyz/competitions/19c5a5a6-f68d-4da8-b185-3f28c7f97bc1) | Private | Private | May 2025 | Pashov <img src="./img/pashov.jpg" width=20 height=20> | Anchor, Launchpad |
+[Pumpfun contest](https://cantina.xyz/competitions/19c5a5a6-f68d-4da8-b185-3f28c7f97bc1) | 🥉 place, Private | Private | April 2025 | Cantina <img src="./img/cantina.ico" width=20 height=20> | Anchor, Launchpad |
+[Superstate-7](https://superstate.co/) | 2 Critical, 1 High, 3 Low, 4 Quality | Private | April 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Native Rust, Treasury Bills |
+[Perena](https://perena.org/) | 4 Critical, 3 High, 4 Medium, 3 Low, 6 Informational | [📄](https://github.com/tnquanghuy0512/audits/blob/main/Spearbit/Perena.pdf) | Mar 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Native Rust, Stablecoin |
+[ORO](https://orogold.app/) | 11 Critical, 1 High, 5 Medium, 3 Low, 5 Informational | [📄](https://github.com/tnquanghuy0512/audits/blob/main/Spearbit/ORO.pdf) | Mar 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Anchor, RWAs |
+[SevenSeas-29](https://sevenseas.capital/) | 1 High, 3 Medium, 2 Low, 14 Quality | [📄](https://0xmacro.com/library/audits/sevenSeas-29)  | Feb 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> |  Anchor, Yielding |
+[SevenSeas-20](https://sevenseas.capital/) | 1 Low, 4 Quality | [📄](https://0xmacro.com/library/audits/sevenSeas-20)  | Nov 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Anchor, Hyperlane integration |
 
-### Solidity works <img src="./img/ethereum.png" width=30 height=30>
+
+
+# <img src="./img/ethereum.png" width=30 height=30> Solidity works 
+### Private audit works
 | Audit | Found | Report  | Date | Platform | Category
 |:--:|:--:|:--:|:--:|:--:|:--:|
 [Digital Era Bank](https://www.digitalerabank.com/) | 1 Medium, 1 Low | Private | Jan 2025 | Hashlock <img src="./img/hashlock.jpg" width=15 height=15> | Stablecoin |
@@ -66,6 +71,7 @@ I have been trusted by and secured smart contracts for major DeFi protocols such
 [LottoPGF](https://lottopgf.org/) | 4 High, 2 Medium, 14 Low | Private | Sep 2024 | Hashlock <img src="./img/hashlock.jpg" width=15 height=15> | Lottery |
 [Infinex-9](https://infinex.xyz/) | 1 Critical, 1 Medium | [📄](https://0xmacro.com/library/audits/infinex-9) | Sep 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Smart Contract Wallet |
 [Prodds](https://prodds.xyz/) | 1 High, 1 Medium, 13 Low, 2 Gas Opt | Private | Sep 2024 | Hashlock <img src="./img/hashlock.jpg" width=15 height=15> | Betting |
+[Kwenta-18](https://v2.kwenta.io/) | 1 Critical, 2 High, 2 Medium, 2 Low, 6 Quality | [📄](https://0xmacro.com/library/audits/kwenta-18) | Aug 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Golang <img src="./img/go.png" width=20 height=20>, zero-knowledge |
 [Infinex-8](https://infinex.xyz/) | 1 Quality, 1 Gas Opt | [📄](https://0xmacro.com/library/audits/infinex-8) | Aug 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Smart Contract Wallet |
 [Infinex-7](https://infinex.xyz/) | 2 High, 1 Quality, 4 Gas Opt | Private | Aug 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Smart Contract Wallet |
 [Maple-2](https://maple.finance/) | 1 Low, 2 Quality | [📄](https://0xmacro.com/library/audits/maple-2)| Aug 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Lending |
@@ -96,7 +102,7 @@ I have been trusted by and secured smart contracts for major DeFi protocols such
 
 
 
-# Audit Contests
+### Audit Contests
 | Contest | Found | Report  | Date | Platform | Category
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | [Ethos Reputation](https://audits.sherlock.xyz/contests/735)| 1 Medium | [📄](https://github.com/tnquanghuy0512/audits/blob/main/Sherlock/2024-12-ethos.md)  | Dec 2024 | Sherlock <img src="./img/sherlock.svg" width=15 height=15> | Marketplace
