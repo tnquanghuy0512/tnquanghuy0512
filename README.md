@@ -70,7 +70,7 @@ I have been trusted to secure smart contracts for major DeFi protocols such as [
 [Infinex-12](https://infinex.xyz/) | 4 Low, 2 Quality, 1 Gas Opt | [📄](https://0xmacro.com/library/audits/infinex-12) | Oct 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Smart Contract Wallet |
 [Infinex-11](https://infinex.xyz/) | 2 Medium, 5 Low, 9 Quality, 1 Gas Opt | [📄](https://0xmacro.com/library/audits/infinex-11) | Oct 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Smart Contract Wallet |
 [Dorge-3](https://dorge.com/) | 1 Low, 1 Quality, 1 Gas Opt | Private | Oct 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Presale |
-[LottoPGF](https://lottopgf.org/) | 4 High, 2 Medium, 14 Low | Private | Sep 2024 | Hashlock <img src="./img/hashlock.jpg" width=15 height=15> | Lottery |
+[LottoPGF](https://lottopgf.org/) | 4 High, 2 Medium, 14 Low | [📄](https://hashlock.com/audits/lottopgf) | Sep 2024 | Hashlock <img src="./img/hashlock.jpg" width=15 height=15> | Lottery |
 [Infinex-9](https://infinex.xyz/) | 1 Critical, 1 Medium | [📄](https://0xmacro.com/library/audits/infinex-9) | Sep 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Smart Contract Wallet |
 [Prodds](https://prodds.xyz/) | 1 High, 1 Medium, 13 Low, 2 Gas Opt | Private | Sep 2024 | Hashlock <img src="./img/hashlock.jpg" width=15 height=15> | Betting |
 [Kwenta-18](https://v2.kwenta.io/) | 1 Critical, 2 High, 2 Medium, 2 Low, 6 Quality | [📄](https://0xmacro.com/library/audits/kwenta-18) | Aug 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Golang <img src="./img/go.png" width=20 height=20>, zero-knowledge |
