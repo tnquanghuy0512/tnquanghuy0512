@@ -1,4 +1,4 @@
-Updated: May 12, 2025
+Updated: May 19, 2025
 
 # Hi, I'm Huy, an independent Web3 security researcher
 
@@ -44,7 +44,7 @@ I have been trusted to secure smart contracts for major DeFi protocols such as [
 # <img src="./img/solana.png" width=30 height=30> Solana works
 | Audit | Found | Report  | Date | Platform | Category
 |:--:|:--:|:--:|:--:|:--:|:--:|
-[Pumpfun audit](https://cantina.xyz/competitions/19c5a5a6-f68d-4da8-b185-3f28c7f97bc1) | Private | Private | May 2025 | Pashov <img src="./img/pashov.jpg" width=20 height=20> | Anchor, Launchpad |
+[Pumpfun audit](https://pump.fun/) | Private | Private | May 2025 | Pashov <img src="./img/pashov.jpg" width=20 height=20> | Anchor, Launchpad |
 [Pumpfun contest](https://cantina.xyz/competitions/19c5a5a6-f68d-4da8-b185-3f28c7f97bc1) | 🥉 place, Private | Private | April 2025 | Cantina <img src="./img/cantina.ico" width=20 height=20> | Anchor, Launchpad |
 [Superstate-7](https://superstate.co/) | 2 Critical, 1 High, 3 Low, 4 Quality | Private | April 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Native Rust, Treasury Bills |
 [Perena](https://perena.org/) | 4 Critical, 3 High, 4 Medium, 3 Low, 6 Informational | [📄](https://github.com/tnquanghuy0512/audits/blob/main/Spearbit/Perena.pdf) | Mar 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Native Rust, Stablecoin |
@@ -55,9 +55,11 @@ I have been trusted to secure smart contracts for major DeFi protocols such as [
 
 
 # <img src="./img/ethereum.png" width=30 height=30> Solidity works 
-### Private audit works
+### Private audit
 | Audit | Found | Report  | Date | Platform | Category
 |:--:|:--:|:--:|:--:|:--:|:--:|
+[Daylight-1](https://godaylight.com/) | ... | ... | May 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | RWAs |
+[LevelMoney-1](https://www.level.money/) | 7 Medium, 5 Low, 8 Quality, 2 Informational | [📄](https://0xmacro.com/library/audits/level-1) | April 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Stablecoin, Yielding |
 [Digital Era Bank](https://www.digitalerabank.com/) | 1 Medium, 1 Low | Private | Jan 2025 | Hashlock <img src="./img/hashlock.jpg" width=15 height=15> | Stablecoin |
 [Superstate-5](https://superstate.co/) | 3 Quality | [📄](https://0xmacro.com/library/audits/superstate-5) | Jan 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Treasury Bills |
 [Agora-1](https://www.agora.finance/) | 1 Critical, 2 Medium, 2 Low, 11 Quality | Private | Dec 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Stablecoin AMM |
