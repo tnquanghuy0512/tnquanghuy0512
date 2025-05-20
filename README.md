@@ -48,7 +48,7 @@ I have been trusted to secure smart contracts for major DeFi protocols such as [
 [Pumpfun contest](https://cantina.xyz/competitions/19c5a5a6-f68d-4da8-b185-3f28c7f97bc1) | 🥉 place, Private | Private | April 2025 | Cantina <img src="./img/cantina.ico" width=20 height=20> | Anchor, Launchpad |
 [Superstate-7](https://superstate.co/) | 2 Critical, 1 High, 3 Low, 4 Quality | Private | April 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Native Rust, Treasury Bills |
 [Perena](https://perena.org/) | 4 Critical, 3 High, 4 Medium, 3 Low, 6 Informational | [📄](https://github.com/tnquanghuy0512/audits/blob/main/Spearbit/Perena.pdf) | Mar 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Native Rust, Stablecoin |
-[ORO](https://orogold.app/) | 11 Critical, 1 High, 5 Medium, 3 Low, 5 Informational | [📄](https://github.com/tnquanghuy0512/audits/blob/main/Spearbit/ORO.pdf) | Mar 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Anchor, RWAs |
+[ORO](https://orogold.app/) | 11 Critical, 1 High, 5 Medium, 3 Low, 5 Informational | [📄](https://cantina.xyz/portfolio/ef5a3868-95f7-4259-84a2-9b394ef4a5eb) | Mar 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Anchor, RWAs |
 [SevenSeas-29](https://sevenseas.capital/) | 1 High, 3 Medium, 2 Low, 14 Quality | [📄](https://0xmacro.com/library/audits/sevenSeas-29)  | Feb 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> |  Anchor, Yielding |
 [SevenSeas-20](https://sevenseas.capital/) | 1 Low, 4 Quality | [📄](https://0xmacro.com/library/audits/sevenSeas-20)  | Nov 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Anchor, Hyperlane integration |
 
