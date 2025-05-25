@@ -1,4 +1,4 @@
-Updated: May 19, 2025
+Updated: May 25, 2025
 
 # Hi, I'm Huy, an independent Web3 security researcher
 
@@ -26,14 +26,18 @@ I have been trusted to secure smart contracts for major DeFi protocols such as [
 
 
 # Highlights
-- Found critical or high issues in 4 out of 6 Solana private audits.
-- Participated in over 30 private audits with [0xMacro](https://0xmacro.com/), [Spearbit](https://spearbit.com/), [Pashov](https://www.pashov.net/), and [Hashlock](https://hashlock.com/)
-- Participated in over 25 public contest audits, identifying 25+ High and 30+ Medium severity bugs
+- Key contributor to [Awesome Solana Security](https://github.com/0xMacro/awesome-solana-security) repository, helping gather essential security resources for Solana developers and researchers.
+- Conducted 35+ private security audits with [0xMacro](https://0xmacro.com/), [Spearbit](https://spearbit.com/), [Pashov](https://www.pashov.net/), and [Hashlock](https://hashlock.com/).
+- Participated in 25+ public audit contests, achieving top-5 results multiple times.
+- Found 150+ Critical, High, or Medium severity vulnerabilities in contests and private audits.
+- Identified Critical or High-severity vulnerabilities in 4 out of 6 Solana private audits.
+- Discovered and reported a Critical and a High-severity vulnerability via Immunefi.
+
+<!-- 
 - 🥉 place in [Pumpfun contest](https://cantina.xyz/competitions/19c5a5a6-f68d-4da8-b185-3f28c7f97bc1) on Cantina
 - 🥈 place in [Ethos Reputation contest](https://audits.sherlock.xyz/contests/735) on Sherlock
 - 4th place in [Wormhole contest](https://cantina.xyz/code/627528d0-db8a-4c42-b8b4-a5760ff31baf/README.md) on Cantina
-- 5th place in [IronBank contest](https://audits.sherlock.xyz/contests/84/leaderboard) on Sherlock
-- Discovered 1 Critical and 1 High bug on Immunefi
+- 5th place in [IronBank contest](https://audits.sherlock.xyz/contests/84/leaderboard) on Sherlock -->
 
 <!-- - Placed 6th in [3DNS contest](https://cantina.xyz/code/cdb738fd-0e7f-4a6b-9073-2b8629bfc1c3/README.md) on Cantina -->
 <!-- - 🥇 place  in [Mitosis contest](https://secure3.io/contest/e377f59b8e) on Secure3
