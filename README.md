@@ -1,11 +1,11 @@
-Updated: July 22, 2025
+Updated: August 2, 2025
 
 # Hi, I'm Huy, an independent Web3 security researcher
 
 ## About Me
 Highly skilled smart contract security researcher with a focus on EVM-compatible and Solana blockchain ecosystems. With a proven ability to detect and report critical vulnerabilities across a range of blockchain platforms, I provide expert smart contract security services.
 
-I have been trusted to secure smart contracts for major DeFi protocols such as [Pumpfun](https://pump.fun/), [Raydium](https://raydium.io/), [Infinex](https://infinex.xyz/), [Connext](https://www.connext.network/), [Maple](https://maple.finance/), [Thirdweb](https://thirdweb.com/), [SevenSeas/Veda](https://sevenseas.capital/) and other multi-million-dollar protocols.
+I have been trusted to secure smart contracts for major DeFi protocols such as [Pumpfun](https://pump.fun/), [Raydium](https://raydium.io/), [Coinbase](https://www.coinbase.com/), [Infinex](https://infinex.xyz/), [Connext](https://www.connext.network/), [Maple](https://maple.finance/), [Thirdweb](https://thirdweb.com/), [SevenSeas/Veda](https://sevenseas.capital/) and other multi-million-dollar protocols.
 
 ## Technical Expertise
 - **Languages**: Rust, Solidity 
@@ -19,18 +19,16 @@ I have been trusted to secure smart contracts for major DeFi protocols such as [
 - **Discord**: [`0xhuy0512`](https://discordapp.com/users/1082973034148798555)
 
 # Experience
-<!-- - Education: Bachelor of Information Technology at [UET-VNU (University of Engineering and Technology - Vietnam National University)](https://uet.vnu.edu.vn/en/) -->
 - **June 2022 - June 2023**: Fullstack EVM developer at [Sotatek](https://www.sotatek.com/about-us/)
 - **June 2023 - Present**: Independent Web3 security researcher. Participating in contests, doing private audits with [0xMacro](https://0xmacro.com/), [Spearbit](https://spearbit.com/), [Zenith](https://www.zenith.security/), [Pashov](https://www.pashov.net/), and [Hashlock](https://hashlock.com/), and also hunting bug bounties on Immunefi
-<!-- - **June 2024 - Present**: Working with [0xMacro](https://0xmacro.com/) as a Staff auditor -->
 
 
 # Highlights
 - Key contributor to [Awesome Solana Security](https://github.com/0xMacro/awesome-solana-security) repository, helping gather essential security resources for Solana developers and researchers.
-- Conducted 35+ private security audits with [0xMacro](https://0xmacro.com/), [Spearbit](https://spearbit.com/), [Zenith](https://www.zenith.security/), [Pashov](https://www.pashov.net/), and [Hashlock](https://hashlock.com/).
+- Conducted 50+ private security audits with [0xMacro](https://0xmacro.com/), [Spearbit](https://spearbit.com/), [Zenith](https://www.zenith.security/), [Pashov](https://www.pashov.net/), and [Hashlock](https://hashlock.com/).
 - Participated in 25+ public audit contests, achieving top-5 results multiple times.
-- Found 150+ Critical, High, or Medium severity vulnerabilities in contests and private audits.
-- Identified Critical or High-severity vulnerabilities in 4 out of 6 Solana private audits.
+- Found 200+ Critical, High, or Medium severity vulnerabilities in contests and private audits.
+- Identified Critical or High-severity vulnerabilities in 6 out of 10 Solana private audits.
 - Discovered and reported a Critical and a High-severity vulnerability via Immunefi.
 
 <!-- 
@@ -48,7 +46,9 @@ I have been trusted to secure smart contracts for major DeFi protocols such as [
 # <img src="./img/solana.png" width=30 height=30> Solana works
 | Audit                                                                                    | Found                                                          | Report                                                                      | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       |            Platform&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            | Category                      |
 | :--------------------------------------------------------------------------------------- | :------------------------------------------------------------- | :-------------------------------------------------------------------------- | :--------- | :------------------------------------------------------------- | :---------------------------- |
-| [SevenSeas-54](https://sevenseas.capital/)                                                       | Private                                                        | Private                                                                     | Jul 2025   | 0xMacro <img src="./img/macro.png" width=15 height=15>        | Anchor, Yielding             |
+| [Coinbase](https://www.coinbase.com/)                                                       | Private                                                        | Private                                                                     | Aug 2025   | Spearbit <img src="./img/spearbit.png" width=15 height=15>        | ...             |
+| [MagicBlock](https://www.magicblock.xyz/)                                                       | Private                                                        | Private                                                                     | Aug 2025   | Zenith <img src="./img/zenith.svg" width=15 height=15>        | ...             |
+| [SevenSeas-54](https://sevenseas.capital/)                                                       | Private                                                        | Private                                                                     | Jul 2025   | 0xMacro <img src="./img/macro.png" width=15 height=15>        | Anchor, Yielding, Kamino and Raydium integration             |
 | [Eco](https://eco.com/)                                                       | Private                                                        | Private                                                                     | Jul 2025   | Spearbit <img src="./img/spearbit.png" width=15 height=15>        | Anchor, Intent bridge, Hyperlane             |
 | [Legion](https://legion.cc/)                                                       | Private                                                        | Private                                                                     | Jun 2025   | Zenith <img src="./img/zenith.svg" width=15 height=15>        | Anchor, Launchpad             |
 | [Raydium-1](https://raydium.io/)                                                       | Private                                                        | Private                                                                     | Jun 2025   | 0xMacro <img src="./img/macro.png" width=15 height=15>        | Anchor, AMM, CLMM             |
