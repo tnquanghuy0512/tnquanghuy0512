@@ -1,4 +1,4 @@
-Updated: August 8, 2025
+Updated: August 26, 2025
 
 # Hi, I'm Huy, an independent Web3 security researcher
 
@@ -46,10 +46,11 @@ I have been trusted to secure smart contracts for major DeFi protocols such as [
 # <img src="./img/solana.png" width=30 height=30> Solana works
 | Audit | Found | Report | Date | Platform | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Coinbase](https://www.coinbase.com/) | Private | Private | Aug 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | ... |
-| [MagicBlock](https://www.magicblock.xyz/) | Private | Private | Aug 2025 | Zenith <img src="./img/zenith.svg" width=15 height=15> | ... |
+| [Coinbase](https://www.coinbase.com/) | Private | Private | Aug 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Anchor, Bridge |
+| [Solayer contest](https://cantina.xyz/code/0f543452-2076-438f-86ae-bbd6b065fffb) | Private | Private | Aug 2025 | Cantina <img src="./img/cantina.ico" width=20 height=20> | Anchor, Bridge |
+| [MagicBlock](https://www.magicblock.xyz/) | 4 Medium, 4 Low, 10 Informational | [📄](https://github.com/zenith-security/reports/blob/main/reports/MagicBlock%20-%20Zenith%20Audit%20Report.pdf) | Aug 2025 | Zenith <img src="./img/zenith.svg" width=15 height=15> | Steel, VRF |
 | [SevenSeas-54](https://sevenseas.capital/) | Private | Private | Jul 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Anchor, Yielding, Kamino and Raydium integration |
-| [Eco](https://eco.com/) | Private | Private | Jul 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Anchor, Intent bridge, Hyperlane |
+| [Eco Bridge](https://eco.com/) | Private | Private | Jul 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Anchor, Intent bridge, Hyperlane |
 | [Legion](https://legion.cc/) | 1 High, 3 Medium, 2 Low, 1 Informational | [📄](https://github.com/zenith-security/reports/blob/main/reports/Legion%20-%20Zenith%20Audit%20Report.pdf) | Jun 2025 | Zenith <img src="./img/zenith.svg" width=15 height=15> | Anchor, Launchpad |
 | [Raydium-1](https://raydium.io/) | Private | Private | Jun 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Anchor, AMM, CLMM |
 | [Pumpfun audit](https://pump.fun/) | Private | Private | May 2025 | Pashov <img src="./img/pashov.jpg" width=20 height=20> | Anchor, Launchpad |
@@ -66,7 +67,8 @@ I have been trusted to secure smart contracts for major DeFi protocols such as [
 ### Private audit
 | Audit | Found | Report | Date | Platform | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Eco](https://eco.com/) | Private | Private | Jul 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Intent bridge |
+| [Eco Permit3](https://eco.com/) | Private | Private | Aug 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Permit2 related |
+| [Eco Bridge](https://eco.com/) | Private | Private | Jul 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Intent bridge |
 | [Nucleus](https://ionprotocol.io/) | Private | Private | Jul 2025 | Zenith <img src="./img/zenith.svg" width=15 height=15> | Boring Vault |
 | [Daylight-1b](https://godaylight.com/) | Private | Private | Jun 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | RWAs |
 | [SevenSeas-50](https://sevenseas.capital/) | 2 High, 2 Medium, 4 Low, 3 Quality, 3 Gas Opt | [📄](https://library-pr-359.onrender.com/library/audits/sevenSeas-50.html) | Jun 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Yielding, UniswapV4 |
