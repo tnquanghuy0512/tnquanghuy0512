@@ -1,4 +1,4 @@
-Updated: August 26, 2025
+Updated: September 20, 2025
 
 # Hi, I'm Huy, an independent Web3 security researcher
 
@@ -20,32 +20,24 @@ I have been trusted to secure smart contracts for major DeFi protocols such as [
 
 # Experience
 - **June 2022 - June 2023**: Fullstack EVM developer at [Sotatek](https://www.sotatek.com/about-us/)
-- **June 2023 - Present**: Independent Web3 security researcher. Participating in contests, doing private audits with [0xMacro](https://0xmacro.com/), [Spearbit](https://spearbit.com/), [Zenith](https://www.zenith.security/), [Pashov](https://www.pashov.net/), and [Hashlock](https://hashlock.com/), and also hunting bug bounties on Immunefi
+- **June 2023 - Present**: Independent Web3 security researcher. Participating in contests, doing private audits with [0xMacro](https://0xmacro.com/), [Spearbit](https://spearbit.com/), [Zenith](https://www.zenith.security/), [Pashov](https://www.pashov.net/), and [Adevar](https://www.adevarlabs.com/), and also hunting bug bounties on Immunefi
 
 
 # Highlights
 - Key contributor to [Awesome Solana Security](https://github.com/0xMacro/awesome-solana-security) repository, helping gather essential security resources for Solana developers and researchers.
-- Conducted 50+ private security audits with [0xMacro](https://0xmacro.com/), [Spearbit](https://spearbit.com/), [Zenith](https://www.zenith.security/), [Pashov](https://www.pashov.net/), and [Hashlock](https://hashlock.com/).
+- Conducted 50+ private security audits with [0xMacro](https://0xmacro.com/), [Spearbit](https://spearbit.com/), [Zenith](https://www.zenith.security/), [Pashov](https://www.pashov.net/), and [Adevar](https://www.adevarlabs.com/).
 - Participated in 25+ public audit contests, achieving top-5 results multiple times.
 - Found 200+ Critical, High, or Medium severity vulnerabilities in contests and private audits.
 - Identified Critical or High-severity vulnerabilities in 6 out of 10 Solana private audits.
 - Discovered and reported a Critical and a High-severity vulnerability via Immunefi.
 
-<!-- 
-- 🥉 place in [Pumpfun contest](https://cantina.xyz/competitions/19c5a5a6-f68d-4da8-b185-3f28c7f97bc1) on Cantina
-- 🥈 place in [Ethos Reputation contest](https://audits.sherlock.xyz/contests/735) on Sherlock
-- 4th place in [Wormhole contest](https://cantina.xyz/code/627528d0-db8a-4c42-b8b4-a5760ff31baf/README.md) on Cantina
-- 5th place in [IronBank contest](https://audits.sherlock.xyz/contests/84/leaderboard) on Sherlock -->
-
-<!-- - Placed 6th in [3DNS contest](https://cantina.xyz/code/cdb738fd-0e7f-4a6b-9073-2b8629bfc1c3/README.md) on Cantina -->
-<!-- - 🥇 place  in [Mitosis contest](https://secure3.io/contest/e377f59b8e) on Secure3
-- 🥇 place in [FBTC contest](https://app.secure3.io/614576bf93) on Secure3 -->
 
 
 
 # <img src="./img/solana.png" width=30 height=30> Solana works
 | Audit | Found | Report | Date | Platform | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [GLAM](https://www.glam.systems/) | Private | Private | Sep 2025 | Adevar <img src="./img/adevar.jpg" width=20 height=20> | _ |
 | [Coinbase](https://www.coinbase.com/) | Private | Private | Aug 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Anchor, Bridge |
 | [Solayer contest](https://cantina.xyz/code/0f543452-2076-438f-86ae-bbd6b065fffb) | Private | Private | Aug 2025 | Cantina <img src="./img/cantina.ico" width=20 height=20> | Anchor, Bridge |
 | [MagicBlock](https://www.magicblock.xyz/) | 4 Medium, 4 Low, 10 Informational | [📄](https://github.com/zenith-security/reports/blob/main/reports/MagicBlock%20-%20Zenith%20Audit%20Report.pdf) | Aug 2025 | Zenith <img src="./img/zenith.svg" width=15 height=15> | Steel, VRF |
@@ -67,12 +59,14 @@ I have been trusted to secure smart contracts for major DeFi protocols such as [
 ### Private audit
 | Audit | Found | Report | Date | Platform | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Eco Permit3](https://eco.com/) | Private | Private | Aug 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Permit2 related |
+| [Silicon-2](https://www.silicon.net/) | Private | Private | Sep 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | RWAs, staking |
+| [Eco Polimer](https://eco.com/) | Private | Private | Sep 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Intent bridge, Polimer integration |
+| [Eco Permit3](https://eco.com/) | 3 High, 3 Medium, 1 Low, 8 Informational | [📄](https://cantina.xyz/portfolio/b7028f2d-f92c-4ba6-afe8-1dd87e88bcb4) | Aug 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Permit2 related |
 | [Eco Bridge](https://eco.com/) | Private | Private | Jul 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Intent bridge |
 | [Nucleus](https://ionprotocol.io/) | Private | Private | Jul 2025 | Zenith <img src="./img/zenith.svg" width=15 height=15> | Boring Vault |
 | [Daylight-1b](https://godaylight.com/) | Private | Private | Jun 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | RWAs |
 | [SevenSeas-50](https://sevenseas.capital/) | 2 High, 2 Medium, 4 Low, 3 Quality, 3 Gas Opt | [📄](https://library-pr-359.onrender.com/library/audits/sevenSeas-50.html) | Jun 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Yielding, UniswapV4 |
-| [Silicon-1](https://www.silicon.net/) | 3 High, 4 Medium, 4 Quality, 1 Gas Opt | Private | Jun 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | RWAs |
+| [Silicon-1](https://www.silicon.net/) | 3 High, 4 Medium, 4 Quality, 1 Gas Opt | Private | Jun 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | RWAs, staking |
 | [Daylight-1a](https://godaylight.com/) | Private | Private | May 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | RWAs |
 | [LevelMoney-1](https://www.level.money/) | 7 Medium, 5 Low, 8 Quality, 2 Informational | [📄](https://0xmacro.com/library/audits/level-1) | Apr 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Stablecoin, Yielding |
 | [Digital Era Bank](https://www.digitalerabank.com/) | 1 Medium, 1 Low | Private | Jan 2025 | Hashlock <img src="./img/hashlock.jpg" width=15 height=15> | Stablecoin |
