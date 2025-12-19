@@ -37,7 +37,7 @@ I have been trusted to secure smart contracts for major DeFi protocols such as [
 | Audit | Found | Report | Date | Platform | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Pumpfun audit](https://pump.fun/) | Private | Private | Dec 2025 | Pashov | Anchor, Launchpad |
-| Invention-1 | Private | Private | Dec 2025 | 0xMacro | Anchor, token |
+| [Invention-1](https://theinventionnetwork.com/) | Private | Private | Dec 2025 | 0xMacro | Anchor, token |
 | [Fluid](https://fluid.io/) | Private | Private | Nov 2025 | Certora | Anchor, Lending |
 | [GLAM](https://www.glam.systems/) | 2 High, 2 Medium, 10 Low, 26 Informational | [📄](https://github.com/base/bridge/blob/main/audits/report-cantinacode-coinbase-bridge-pt3.pdf) | Sep 2025 | Adevar | Anchor, Vault |
 | [Coinbase](https://www.coinbase.com/) | 2 Medium, 2 Informational | [📄](https://github.com/base/bridge/blob/main/audits/report-cantinacode-coinbase-bridge.pdf) | Sep 2025 | Spearbit | Anchor, Bridge |
