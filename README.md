@@ -1,4 +1,4 @@
-Updated: November 28, 2025
+Updated: December 19, 2025
 
 # Hi, I'm Huy, an independent Web3 security researcher
 
@@ -20,12 +20,12 @@ I have been trusted to secure smart contracts for major DeFi protocols such as [
 
 # Experience
 - **June 2022 - June 2023**: Fullstack EVM developer at [Sotatek](https://www.sotatek.com/about-us/)
-- **June 2023 - Present**: Independent Web3 security researcher. Participating in contests, doing private audits with [0xMacro](https://0xmacro.com/), [Spearbit](https://spearbit.com/), [Zenith](https://www.zenith.security/), [Pashov](https://www.pashov.net/), [Adevar](https://www.adevarlabs.com/), and [Certora](https://www.certora.com/), and also hunting bug bounties on Immunefi
+- **June 2023 - Present**: Independent Web3 security researcher. Participating in contests, doing private audits with [0xMacro](https://0xmacro.com/), [Spearbit](https://spearbit.com/), [Zenith](https://www.zenith.security/), [Pashov](https://www.pashov.net/), [Adevar](https://www.adevarlabs.com/), [Certora](https://www.certora.com/), and [BurraSec](https://www.burrasec.com/) and also hunting bug bounties on Immunefi
 
 
 # Highlights
 - Key contributor to [Awesome Solana Security](https://github.com/0xMacro/awesome-solana-security) repository, helping gather essential security resources for Solana developers and researchers.
-- Conducted 50+ private security audits with [0xMacro](https://0xmacro.com/), [Spearbit](https://spearbit.com/), [Zenith](https://www.zenith.security/), [Pashov](https://www.pashov.net/), [Adevar](https://www.adevarlabs.com/), and [Certora](https://www.certora.com/)
+- Conducted 50+ private security audits with [0xMacro](https://0xmacro.com/), [Spearbit](https://spearbit.com/), [Zenith](https://www.zenith.security/), [Pashov](https://www.pashov.net/), [Adevar](https://www.adevarlabs.com/), [Certora](https://www.certora.com/), and [BurraSec](https://www.burrasec.com/)
 - Participated in 25+ public audit contests, achieving top-5 results multiple times.
 - Found 200+ Critical, High, or Medium severity vulnerabilities in contests and private audits.
 - Identified Critical or High-severity vulnerabilities in 9 out of 14 Solana private audits.
@@ -33,13 +33,15 @@ I have been trusted to secure smart contracts for major DeFi protocols such as [
 
 
 
-
 # <img src="./img/solana.png" width=30 height=30> Solana works
 | Audit | Found | Report | Date | Platform | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [Pumpfun audit](https://pump.fun/) | Private | Private | Dec 2025 | Pashov <img src="./img/pashov.jpg" width=15 height=15> | Anchor, Launchpad |
+| Invention-1 | Private | Private | Dec 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Anchor, token |
 | [Fluid](https://fluid.io/) | Private | Private | Nov 2025 | Certora <img src="./img/certora.png" width=15 height=15> | Anchor, Lending |
-| [GLAM](https://www.glam.systems/) | 2 High, 2 Medium, 10 Low, 26 Informational | [📄](https://github.com/AdevarLabs/audit-reports/blob/main/reports/2025-11-07_GLAM_audit_report.pdf) | Sep 2025 | Adevar <img src="./img/adevar.jpg" width=15 height=15> | Anchor, Vault |
-| [Coinbase](https://www.coinbase.com/) | Private | Private | Aug 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Anchor, Bridge |
+| [GLAM](https://www.glam.systems/) | 2 High, 2 Medium, 10 Low, 26 Informational | [📄](https://github.com/base/bridge/blob/main/audits/report-cantinacode-coinbase-bridge-pt3.pdf) | Sep 2025 | Adevar <img src="./img/adevar.jpg" width=15 height=15> | Anchor, Vault |
+| [Coinbase](https://www.coinbase.com/) | 2 Medium, 2 Informational | [📄](https://github.com/base/bridge/blob/main/audits/report-cantinacode-coinbase-bridge.pdf) | Sep 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Anchor, Bridge |
+| [Coinbase](https://www.coinbase.com/) | 1 Medium, 5 Low, 1 Gas Opt, 19 Informational | [📄](https://github.com/base/bridge/blob/main/audits/report-cantinacode-coinbase-bridge.pdf) | Aug 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Anchor, Bridge |
 | [Solayer contest](https://cantina.xyz/code/0f543452-2076-438f-86ae-bbd6b065fffb) | 1 High, 3 Medium | Private | Aug 2025 | Cantina <img src="./img/cantina.ico" width=15 height=15> | Anchor, Bridge |
 | [MagicBlock](https://www.magicblock.xyz/) | 4 Medium, 4 Low, 10 Informational | [📄](https://github.com/zenith-security/reports/blob/main/reports/MagicBlock%20-%20Zenith%20Audit%20Report.pdf) | Aug 2025 | Zenith <img src="./img/zenith.svg" width=15 height=15> | Steel, VRF |
 | [SevenSeas-54](https://sevenseas.capital/) | Private | Private | Jul 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Anchor, Yielding, Kamino and Raydium integration |
@@ -60,7 +62,9 @@ I have been trusted to secure smart contracts for major DeFi protocols such as [
 ### Private audit
 | Audit | Found | Report | Date | Platform | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Superform-1](https://www.superform.xyz/) | Private | Private | Nov 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Vault |
+| Private | Private | Private | Dec 2025 | BurraSec <img src="./img/burrasec.png" width=87 height=15> | Private |
+| [Hypernative](https://www.hypernative.io/) | Private | Private | Dec 2025 | Certora <img src="./img/certora.png" width=15 height=15> | Balancer integration |
+| [Superform-1](https://www.superform.xyz/) | 4 Medium, 4 Low, 15 Quality | [📄](https://github.com/superform-xyz/v2-periphery/blob/dev/audits/2025.11.27-0xMacro.pdf) | Nov 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Vault |
 | [Silicon-2](https://www.silicon.net/) | Private | Private | Sep 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | RWAs, staking |
 | [Eco Polimer](https://eco.com/) | Private | Private | Sep 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Intent bridge, Polimer integration |
 | [Eco Permit3](https://eco.com/) | 3 High, 3 Medium, 1 Low, 8 Informational | [📄](https://cantina.xyz/portfolio/b7028f2d-f92c-4ba6-afe8-1dd87e88bcb4) | Aug 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Permit2 related |
@@ -96,20 +100,6 @@ I have been trusted to secure smart contracts for major DeFi protocols such as [
 | [Connext-7](https://www.connext.network/) | 1 Critical, 2 Medium, 1 Low, 3 Quality, 2 Informational | [📄](https://0xmacro.com/library/audits/connext-7) | Jun 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Crosschain |
 | [Mintra-2](https://www.mintra.ai/) | 1 High, 3 Medium, 7 Low, 8 Quality, 1 Informational | [📄](https://0xmacro.com/library/audits/mintra-2) | Jun 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Launchpad |
 | [Thirdweb-19](https://thirdweb.com/) | 7 Medium, 10 Low, 6 Quality | [📄](https://0xmacro.com/library/audits/thirdweb-19) | Jun 2024 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Public Library |
-
-
-
-
-
-<!-- Infinex-15b | . | . | . | Nov 2024 | Smart contract wallet | -->
-<!-- Infinex-13 | . | . | Oct 2024 | Smart contract wallet |
-
-
--->
-<!-- Infinex-7b | . | . | . | Sep 2024 | Smart contract wallet | -->
-<!-- Infinex-10 | No issue | [📄](https://0xmacro.com/library/audits/infinex-10) | . | Sep 2024 | Smart contract wallet | -->
-<!-- Infinex-7 | . | . | . | Aug 2024 | Smart contract wallet | -->
-
 
 
 
