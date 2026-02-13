@@ -1,4 +1,4 @@
-Updated: December 19, 2025
+Updated: February 12, 2026
 
 # Hi, I'm Huy, an independent Web3 security researcher
 
@@ -27,7 +27,7 @@ I have been trusted to secure smart contracts for major DeFi protocols such as [
 - Key contributor to [Awesome Solana Security](https://github.com/0xMacro/awesome-solana-security) repository, helping gather essential security resources for Solana developers and researchers.
 - Conducted 50+ private security audits with [0xMacro](https://0xmacro.com/), [Spearbit](https://spearbit.com/), [Zenith](https://www.zenith.security/), [Pashov](https://www.pashov.net/), [Adevar](https://www.adevarlabs.com/), [Certora](https://www.certora.com/), and [BurraSec](https://www.burrasec.com/)
 - Participated in 25+ public audit contests, achieving top-5 results multiple times.
-- Found 200+ Critical, High, or Medium severity vulnerabilities in contests and private audits.
+- Found 300+ Critical, High, or Medium severity vulnerabilities in contests and private audits.
 - Identified Critical or High-severity vulnerabilities in 9 out of 14 Solana private audits.
 - Discovered and reported a Critical and a High-severity vulnerability via Immunefi.
 
@@ -36,8 +36,9 @@ I have been trusted to secure smart contracts for major DeFi protocols such as [
 # <img src="./img/solana.png" width=30 height=30> Solana works
 | Audit | Found | Report | Date | Platform | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [Light protocol](https://lightprotocol.com/) | Private | Private | Jan 2026 | Certora <img src="./img/certora.png" width=15 height=15> | Pinocchio, zk compression |
 | [Pumpfun audit](https://pump.fun/) | Private | Private | Dec 2025 | Pashov <img src="./img/pashov.jpg" width=15 height=15> | Anchor, Launchpad |
-| Invention-1 | Private | Private | Dec 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Anchor, token |
+| [Invention-1](https://theinventionnetwork.com/) | Private | Private | Dec 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Anchor, token2022 |
 | [Fluid](https://fluid.io/) | Private | Private | Nov 2025 | Certora <img src="./img/certora.png" width=15 height=15> | Anchor, Lending |
 | [GLAM](https://www.glam.systems/) | 2 High, 2 Medium, 10 Low, 26 Informational | [📄](https://github.com/base/bridge/blob/main/audits/report-cantinacode-coinbase-bridge-pt3.pdf) | Sep 2025 | Adevar <img src="./img/adevar.jpg" width=15 height=15> | Anchor, Vault |
 | [Coinbase](https://www.coinbase.com/) | 2 Medium, 2 Informational | [📄](https://github.com/base/bridge/blob/main/audits/report-cantinacode-coinbase-bridge.pdf) | Sep 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Anchor, Bridge |
@@ -62,10 +63,12 @@ I have been trusted to secure smart contracts for major DeFi protocols such as [
 ### Private audit
 | Audit | Found | Report | Date | Platform | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Private | Private | Private | Dec 2025 | BurraSec <img src="./img/burrasec.png" width=87 height=15> | Private |
+| [Eco Local Prover Stitching](https://eco.com/) | Private | Private | Jan 2026 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Intent bridge |
+| [Silicon-3](https://www.silicon.net/) | 1 High, 4 Medium, 1 Low | Private | Dec 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | RWAs, staking |
+| [Zama](https://www.zama.org/) | 1 Medium, 6 Low, 10 Informational | Private | Dec 2025 | BurraSec <img src="./img/burrasec.png" width=87 height=15> | Confidental token, auction |
 | [Hypernative](https://www.hypernative.io/) | Private | Private | Dec 2025 | Certora <img src="./img/certora.png" width=15 height=15> | Balancer integration |
 | [Superform-1](https://www.superform.xyz/) | 4 Medium, 4 Low, 15 Quality | [📄](https://github.com/superform-xyz/v2-periphery/blob/dev/audits/2025.11.27-0xMacro.pdf) | Nov 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Vault |
-| [Silicon-2](https://www.silicon.net/) | Private | Private | Sep 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | RWAs, staking |
+| [Silicon-2](https://www.silicon.net/) | 2 Critical, 3 Medium, 6 Low | [📄](https://0xmacro.com/library/audits/silicon-2) | Sep 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | RWAs, staking |
 | [Eco Polimer](https://eco.com/) | Private | Private | Sep 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Intent bridge, Polimer integration |
 | [Eco Permit3](https://eco.com/) | 3 High, 3 Medium, 1 Low, 8 Informational | [📄](https://cantina.xyz/portfolio/b7028f2d-f92c-4ba6-afe8-1dd87e88bcb4) | Aug 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Permit2 related |
 | [Eco Bridge](https://eco.com/) | Private | Private | Jul 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Intent bridge |
