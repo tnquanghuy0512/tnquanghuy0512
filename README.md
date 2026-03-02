@@ -1,4 +1,4 @@
-Updated: February 12, 2026
+Updated: March 2, 2026
 
 # Hi, I'm Huy, an independent Web3 security researcher
 
@@ -36,11 +36,11 @@ I have been trusted to secure smart contracts for major DeFi protocols such as [
 # <img src="./img/solana.png" width=30 height=30> Solana works
 | Audit | Found | Report | Date | Platform | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Light protocol](https://lightprotocol.com/) | Private | Private | Jan 2026 | Certora <img src="./img/certora.png" width=15 height=15> | Pinocchio, zk compression |
+| [Light protocol](https://lightprotocol.com/) | 4 High, 3 Medium, 11 Low, 2 Informational | [📄](https://github.com/Lightprotocol/light-protocol/blob/main/audits/certora_2026-02_light-token-2-extensions.pdf) | Jan 2026 | Certora <img src="./img/certora.png" width=15 height=15> | Pinocchio, zk compression |
 | [Pumpfun audit](https://pump.fun/) | Private | Private | Dec 2025 | Pashov <img src="./img/pashov.jpg" width=15 height=15> | Anchor, Launchpad |
 | [Invention-1](https://theinventionnetwork.com/) | Private | Private | Dec 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Anchor, token2022 |
 | [Fluid](https://fluid.io/) | Private | Private | Nov 2025 | Certora <img src="./img/certora.png" width=15 height=15> | Anchor, Lending |
-| [GLAM](https://www.glam.systems/) | 2 High, 2 Medium, 10 Low, 26 Informational | [📄](https://github.com/base/bridge/blob/main/audits/report-cantinacode-coinbase-bridge-pt3.pdf) | Sep 2025 | Adevar <img src="./img/adevar.jpg" width=15 height=15> | Anchor, Vault |
+| [GLAM](https://www.glam.systems/) | 2 High, 2 Medium, 10 Low, 26 Informational | [📄](https://github.com/AdevarLabs/audit-reports/blob/main/reports/2025-11-07_GLAM_audit_report.pdf) | Sep 2025 | Adevar <img src="./img/adevar.jpg" width=15 height=15> | Anchor, Vault |
 | [Coinbase](https://www.coinbase.com/) | 2 Medium, 2 Informational | [📄](https://github.com/base/bridge/blob/main/audits/report-cantinacode-coinbase-bridge.pdf) | Sep 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Anchor, Bridge |
 | [Coinbase](https://www.coinbase.com/) | 1 Medium, 5 Low, 1 Gas Opt, 19 Informational | [📄](https://github.com/base/bridge/blob/main/audits/report-cantinacode-coinbase-bridge.pdf) | Aug 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Anchor, Bridge |
 | [Solayer contest](https://cantina.xyz/code/0f543452-2076-438f-86ae-bbd6b065fffb) | 1 High, 3 Medium | Private | Aug 2025 | Cantina <img src="./img/cantina.ico" width=15 height=15> | Anchor, Bridge |
@@ -63,7 +63,8 @@ I have been trusted to secure smart contracts for major DeFi protocols such as [
 ### Private audit
 | Audit | Found | Report | Date | Platform | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Eco Local Prover Stitching](https://eco.com/) | Private | Private | Jan 2026 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Intent bridge |
+| [Eco DepositAddress](https://eco.com/) | Private | Private | Feb 2026 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Intent bridge |
+| [Eco PR354](https://eco.com/) | 1 Medium, 2 Low | [📄](https://cantina.xyz/portfolio/e0efda63-8201-4e4c-85ad-a59ec7941980) | Jan 2026 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Intent bridge |
 | [Silicon-3](https://www.silicon.net/) | 1 High, 4 Medium, 1 Low | Private | Dec 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | RWAs, staking |
 | [Zama](https://www.zama.org/) | 1 Medium, 6 Low, 10 Informational | Private | Dec 2025 | BurraSec <img src="./img/burrasec.png" width=87 height=15> | Confidental token, auction |
 | [Hypernative](https://www.hypernative.io/) | Private | Private | Dec 2025 | Certora <img src="./img/certora.png" width=15 height=15> | Balancer integration |
@@ -141,6 +142,6 @@ I have been trusted to secure smart contracts for major DeFi protocols such as [
 ### Bug bounties
 | Project | Severity | Report | Status | Date | Platform | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Pika Protocol V4 | 1 Critical | [📄](https://github.com/tnquanghuy0512/audits/blob/main/Immunefi/2024-01-pika-protocol.md) | Valid but duplicated | Jan 2024 | Immunefi <img src="./img/immunefi.png" width =20 height=20> | Futures trading |
-| LandX | 1 High | [📄](https://github.com/tnquanghuy0512/audits/blob/main/Immunefi/2023-12-land-x.md) | Valid but not fixed | Sep 2023 | Immunefi <img src="./img/immunefi.png" width =20 height=20> | Real world assets |
+| Pika Protocol V4 | 1 Critical | [📄](https://github.com/tnquanghuy0512/audits/blob/main/Immunefi/2024-01-pika-protocol.md) | Valid but duplicated | Jan 2024 | Immunefi <img src="./img/immunefi.png" width=20 height=20> | Futures trading |
+| LandX | 1 High | [📄](https://github.com/tnquanghuy0512/audits/blob/main/Immunefi/2023-12-land-x.md) | Valid but not fixed | Sep 2023 | Immunefi <img src="./img/immunefi.png" width=20 height=20> | Real world assets |
 
