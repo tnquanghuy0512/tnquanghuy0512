@@ -1,4 +1,4 @@
-Updated: March 2, 2026
+Updated: May 8, 2026
 
 # Hi, I'm Huy, an independent Web3 security researcher
 
@@ -36,13 +36,15 @@ I have been trusted to secure smart contracts for major DeFi protocols such as [
 # <img src="./img/solana.png" width=30 height=30> Solana works
 | Audit | Found | Report | Date | Platform | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [Cloak](https://www.cloak.ag/) | Private | Private | April 2026 | Certora <img src="./img/certora.png" width=15 height=15> | Pinocchio, crypto tumbler |
+| [Light PR-2360](https://lightprotocol.com/) | Private | Private | April 2026 | Certora <img src="./img/certora.png" width=15 height=15> | Pinocchio, zk compression |
 | [Light protocol](https://lightprotocol.com/) | 4 High, 3 Medium, 11 Low, 2 Informational | [📄](https://github.com/Lightprotocol/light-protocol/blob/main/audits/certora_2026-02_light-token-2-extensions.pdf) | Jan 2026 | Certora <img src="./img/certora.png" width=15 height=15> | Pinocchio, zk compression |
 | [Pumpfun audit](https://pump.fun/) | Private | Private | Dec 2025 | Pashov <img src="./img/pashov.jpg" width=15 height=15> | Anchor, Launchpad |
 | [Invention-1](https://theinventionnetwork.com/) | Private | Private | Dec 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Anchor, token2022 |
 | [Fluid](https://fluid.io/) | Private | Private | Nov 2025 | Certora <img src="./img/certora.png" width=15 height=15> | Anchor, Lending |
 | [GLAM](https://www.glam.systems/) | 2 High, 2 Medium, 10 Low, 26 Informational | [📄](https://github.com/AdevarLabs/audit-reports/blob/main/reports/2025-11-07_GLAM_audit_report.pdf) | Sep 2025 | Adevar <img src="./img/adevar.jpg" width=15 height=15> | Anchor, Vault |
-| [Coinbase](https://www.coinbase.com/) | 2 Medium, 2 Informational | [📄](https://github.com/base/bridge/blob/main/audits/report-cantinacode-coinbase-bridge.pdf) | Sep 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Anchor, Bridge |
-| [Coinbase](https://www.coinbase.com/) | 1 Medium, 5 Low, 1 Gas Opt, 19 Informational | [📄](https://github.com/base/bridge/blob/main/audits/report-cantinacode-coinbase-bridge.pdf) | Aug 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Anchor, Bridge |
+| [Coinbase-Solana bridge](https://www.coinbase.com/) | 2 Medium, 2 Informational | [📄](https://github.com/base/bridge/blob/main/audits/report-cantinacode-coinbase-bridge.pdf) | Sep 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Anchor, Bridge |
+| [Coinbase-Solana bridge](https://www.coinbase.com/) | 1 Medium, 5 Low, 1 Gas Opt, 19 Informational | [📄](https://github.com/base/bridge/blob/main/audits/report-cantinacode-coinbase-bridge.pdf) | Aug 2025 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Anchor, Bridge |
 | [Solayer contest](https://cantina.xyz/code/0f543452-2076-438f-86ae-bbd6b065fffb) | 1 High, 3 Medium | Private | Aug 2025 | Cantina <img src="./img/cantina.ico" width=15 height=15> | Anchor, Bridge |
 | [MagicBlock](https://www.magicblock.xyz/) | 4 Medium, 4 Low, 10 Informational | [📄](https://github.com/zenith-security/reports/blob/main/reports/MagicBlock%20-%20Zenith%20Audit%20Report.pdf) | Aug 2025 | Zenith <img src="./img/zenith.svg" width=15 height=15> | Steel, VRF |
 | [SevenSeas-54](https://sevenseas.capital/) | Private | Private | Jul 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | Anchor, Yielding, Kamino and Raydium integration |
@@ -63,6 +65,12 @@ I have been trusted to secure smart contracts for major DeFi protocols such as [
 ### Private audit
 | Audit | Found | Report | Date | Platform | Category |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [Zama ERC4626](https://www.zama.org/) | 9 Low, 14 Informational | Private | April 2026 | BurraSec <img src="./img/burrasec.png" width=87 height=15> | Confidental token, ERC4626 |
+| [Zama Confidental Wrapper](https://www.zama.org/) | 1 Medium, 1 Low, 6 Informational | Private | April 2026 | BurraSec <img src="./img/burrasec.png" width=87 height=15> | Confidental token, token wrapper |
+| [Royco Dawn](https://www.royco.org/) | 1 Medium, 4 Low, 8 Informational | [📄](https://github.com/roycoprotocol/royco-dawn/blob/main/audit/Certora-Royco-Dawn-1.pdf) | Mar 2026 | Certora <img src="./img/certora.png" width=15 height=15> | Vault strategy, Yielding |
+| [Coinbase Nitro Enclave TEE](https://www.coinbase.com/) | 1 Medium, 10 Informational | [📄](https://cantina.xyz/portfolio/423a9f33-b710-4445-a125-950b0a7771d7) | Mar 2026 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | TEE |
+| [Rise chain bridge](https://risechain.com/) | Private | Private | Mar 2026 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Bridge, OFT |
+| [Silicon-4](https://www.silicon.net/) | 2 Medium, 5 Quality | [📄](https://0xmacro.com/library/audits/silicon-4) | Mar 2026 | 0xMacro <img src="./img/macro.png" width=15 height=15> | NFT escrow |
 | [Eco DepositAddress](https://eco.com/) | Private | Private | Feb 2026 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Intent bridge |
 | [Eco PR354](https://eco.com/) | 1 Medium, 2 Low | [📄](https://cantina.xyz/portfolio/e0efda63-8201-4e4c-85ad-a59ec7941980) | Jan 2026 | Spearbit <img src="./img/spearbit.png" width=15 height=15> | Intent bridge |
 | [Silicon-3](https://www.silicon.net/) | 1 High, 4 Medium, 1 Low | Private | Dec 2025 | 0xMacro <img src="./img/macro.png" width=15 height=15> | RWAs, staking |
